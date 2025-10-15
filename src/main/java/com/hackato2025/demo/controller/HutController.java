@@ -17,7 +17,7 @@ public class HutController {
     }
 
     @GetMapping("/full-data")
-    public ResponseEntity<List<Map<String, Object>>> getFullMetroData() {
+    public ResponseEntity<List<Map<String, Object>>> getFullHutData() {
         return ResponseEntity.ok(hutService.getHutOfAllNeighborhoods());
     }
 }
