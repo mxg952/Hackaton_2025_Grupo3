@@ -53,15 +53,15 @@ Conté la **lògica de negoci**, gestiona la lectura dels fitxers JSON o la inte
 
 ### 🧾 Endpoints disponibles
 
-| Mètode | Endpoint                                             | Descripció                                                   |
-| ------ | ---------------------------------------------------- | ------------------------------------------------------------ |
-| `GET`  | `http://localhost:8080/api/formularios/media/barrio` | Retorna la mitjana de dades de formularis agrupada per barri |
-| `GET`  | `http://localhost:8080/api/summary/full-data`        | Retorna el resum complet de dades urbanes                    |
-| `GET`  | `http://localhost:8080/api/hut/full-data`            | Retorna totes les dades d’habitatges d’ús turístic (HUT)     |
-| `GET`  | `http://localhost:8080/metro/hut/full-data`          | Retorna dades de metro relacionades amb HUT                  |
-| `GET`  | `http://localhost:8080/api/neighborhoods/full-data`  | Retorna el fitxer complet de barris de Barcelona             |
-| `GET`  | `http://localhost:8080/api/newsletter/full-data`     | Retorna totes les subscripcions a la newsletter desades a H2 |
-| `GET`  | `http://localhost:8080/api/noise-level/full-data`    | Retorna les dades de nivells de soroll per barri             |
+| Mètode | Endpoint                                             | Descripció                                                    |
+| ------ |------------------------------------------------------|---------------------------------------------------------------|
+| `GET`  | `http://localhost:8080/api/formularios/media/barrio` | Retorna la mitjana de dades de formularis agrupada per barri  |
+| `GET`  | `http://localhost:8080/api/summary/full-data`        | Retorna el resum complet de dades urbanes                     |
+| `GET`  | `http://localhost:8080/api/hut/full-data`            | Retorna totes les dades d’habitatges d’ús turístic (HUT)      |
+| `GET`  | `http://localhost:8080/metro/full-data`              | Retorna dades de metro relacionades amb el fluxe de visitants |
+| `GET`  | `http://localhost:8080/api/neighborhoods/full-data`  | Retorna el fitxer complet de barris de Barcelona              |
+| `GET`  | `http://localhost:8080/api/newsletter/full-data`     | Retorna totes les subscripcions a la newsletter desades a H2  |
+| `GET`  | `http://localhost:8080/api/noise-level/full-data`    | Retorna les dades de nivells de soroll per barri              |
 
 > Totes les respostes es retornen en format **JSON**.
 
