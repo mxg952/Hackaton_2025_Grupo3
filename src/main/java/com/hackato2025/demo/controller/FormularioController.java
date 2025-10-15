@@ -102,8 +102,8 @@ public class FormularioController {
     public List<String> obtenerNomBarriDesdeArchivo() throws Exception {
         ObjectMapper mapper = new ObjectMapper();
         InputStream is = getClass().getClassLoader()
-            .getResourceAsStream("datosturismo.json"); 
-        if (is == null) throw new FileNotFoundException("datosturismo.json no encontrado en resources");
+            .getResourceAsStream("data/neighborhoods.json"); 
+        if (is == null) throw new FileNotFoundException("neighborhoods.json no encontrado en resources");
 
         JsonNode root = mapper.readTree(is);
 
