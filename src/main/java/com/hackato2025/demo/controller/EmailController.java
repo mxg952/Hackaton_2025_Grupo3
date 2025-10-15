@@ -1,4 +1,4 @@
-package com.hackato2025.demo;
+package com.hackato2025.demo.controller;
 
 import java.io.File;
 
@@ -57,6 +57,4 @@ public class EmailController {
             return "Error al enviar gráfico: " + e.getMessage();
         }
     }
-    
-
 }
