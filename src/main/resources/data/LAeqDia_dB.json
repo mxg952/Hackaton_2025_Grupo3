@@ -1,0 +1,513 @@
+[
+  {
+    "neighborhoodCode": "01-1",
+    "neighborhoodName": "El Raval",
+    "districtCode": "01",
+    "districtName": "Ciutat Vella",
+    "LAeq_Dia_dB": 68.5
+  },
+  {
+    "neighborhoodCode": "01-2",
+    "neighborhoodName": "El Barri Gòtic",
+    "districtCode": "01",
+    "districtName": "Ciutat Vella",
+    "LAeq_Dia_dB": 71.2
+  },
+  {
+    "neighborhoodCode": "01-3",
+    "neighborhoodName": "Sant Pere, Santa Caterina i la Ribera",
+    "districtCode": "01",
+    "districtName": "Ciutat Vella",
+    "LAeq_Dia_dB": 69.8
+  },
+  {
+    "neighborhoodCode": "01-4",
+    "neighborhoodName": "La Barceloneta",
+    "districtCode": "01",
+    "districtName": "Ciutat Vella",
+    "LAeq_Dia_dB": 70.5
+  },
+  {
+    "neighborhoodCode": "02-5",
+    "neighborhoodName": "El Fort Pienc",
+    "districtCode": "02",
+    "districtName": "Eixample",
+    "LAeq_Dia_dB": 67.0
+  },
+  {
+    "neighborhoodCode": "02-6",
+    "neighborhoodName": "La Sagrada Família",
+    "districtCode": "02",
+    "districtName": "Eixample",
+    "LAeq_Dia_dB": 72.1
+  },
+  {
+    "neighborhoodCode": "02-7",
+    "neighborhoodName": "La Dreta de l'Eixample",
+    "districtCode": "02",
+    "districtName": "Eixample",
+    "LAeq_Dia_dB": 68.9
+  },
+  {
+    "neighborhoodCode": "02-8",
+    "neighborhoodName": "L'Antiga Esquerra de l'Eixample",
+    "districtCode": "02",
+    "districtName": "Eixample",
+    "LAeq_Dia_dB": 67.7
+  },
+  {
+    "neighborhoodCode": "02-9",
+    "neighborhoodName": "La Nova Esquerra de l'Eixample",
+    "districtCode": "02",
+    "districtName": "Eixample",
+    "LAeq_Dia_dB": 66.8
+  },
+  {
+    "neighborhoodCode": "02-10",
+    "neighborhoodName": "Sant Antoni",
+    "districtCode": "02",
+    "districtName": "Eixample",
+    "LAeq_Dia_dB": 69.5
+  },
+  {
+    "neighborhoodCode": "03-11",
+    "neighborhoodName": "El Poble Sec",
+    "districtCode": "03",
+    "districtName": "Sants-Montjuïc",
+    "LAeq_Dia_dB": 64.1
+  },
+  {
+    "neighborhoodCode": "03-12",
+    "neighborhoodName": "La Marina del Prat Vermell",
+    "districtCode": "03",
+    "districtName": "Sants-Montjuïc",
+    "LAeq_Dia_dB": 62.5
+  },
+  {
+    "neighborhoodCode": "03-13",
+    "neighborhoodName": "La Font de la Guatlla",
+    "districtCode": "03",
+    "districtName": "Sants-Montjuïc",
+    "LAeq_Dia_dB": 60.3
+  },
+  {
+    "neighborhoodCode": "03-14",
+    "neighborhoodName": "Hostalfrancs",
+    "districtCode": "03",
+    "districtName": "Sants-Montjuïc",
+    "LAeq_Dia_dB": 65.2
+  },
+  {
+    "neighborhoodCode": "03-15",
+    "neighborhoodName": "La Bordeta",
+    "districtCode": "03",
+    "districtName": "Sants-Montjuïc",
+    "LAeq_Dia_dB": 63.8
+  },
+  {
+    "neighborhoodCode": "03-16",
+    "neighborhoodName": "Sants - Badal",
+    "districtCode": "03",
+    "districtName": "Sants-Montjuïc",
+    "LAeq_Dia_dB": 65.5
+  },
+  {
+    "neighborhoodCode": "03-17",
+    "neighborhoodName": "Sants",
+    "districtCode": "03",
+    "districtName": "Sants-Montjuïc",
+    "LAeq_Dia_dB": 66.1
+  },
+  {
+    "neighborhoodCode": "03-18",
+    "neighborhoodName": "Zona Franca - Port",
+    "districtCode": "03",
+    "districtName": "Sants-Montjuïc",
+    "LAeq_Dia_dB": 68.0
+  },
+  {
+    "neighborhoodCode": "04-19",
+    "neighborhoodName": "Les Corts",
+    "districtCode": "04",
+    "districtName": "Les Corts",
+    "LAeq_Dia_dB": 64.9
+  },
+  {
+    "neighborhoodCode": "04-20",
+    "neighborhoodName": "La Maternitat i Sant Ramon",
+    "districtCode": "04",
+    "districtName": "Les Corts",
+    "LAeq_Dia_dB": 62.2
+  },
+  {
+    "neighborhoodCode": "04-21",
+    "neighborhoodName": "Pedralbes",
+    "districtCode": "04",
+    "districtName": "Les Corts",
+    "LAeq_Dia_dB": 58.7
+  },
+  {
+    "neighborhoodCode": "05-22",
+    "neighborhoodName": "Sarrià",
+    "districtCode": "05",
+    "districtName": "Sarrià-Sant Gervasi",
+    "LAeq_Dia_dB": 59.9
+  },
+  {
+    "neighborhoodCode": "05-23",
+    "neighborhoodName": "Les Tres Torres",
+    "districtCode": "05",
+    "districtName": "Sarrià-Sant Gervasi",
+    "LAeq_Dia_dB": 57.5
+  },
+  {
+    "neighborhoodCode": "05-24",
+    "neighborhoodName": "Sant Gervasi - Bonanova",
+    "districtCode": "05",
+    "districtName": "Sarrià-Sant Gervasi",
+    "LAeq_Dia_dB": 61.8
+  },
+  {
+    "neighborhoodCode": "05-25",
+    "neighborhoodName": "Sant Gervasi - Galvany",
+    "districtCode": "05",
+    "districtName": "Sarrià-Sant Gervasi",
+    "LAeq_Dia_dB": 63.3
+  },
+  {
+    "neighborhoodCode": "05-26",
+    "neighborhoodName": "El Putxet i el Farró",
+    "districtCode": "05",
+    "districtName": "Sarrià-Sant Gervasi",
+    "LAeq_Dia_dB": 60.1
+  },
+  {
+    "neighborhoodCode": "05-27",
+    "neighborhoodName": "Vallvidrera, el Tibidabo i les Planes",
+    "districtCode": "05",
+    "districtName": "Sarrià-Sant Gervasi",
+    "LAeq_Dia_dB": 52.5
+  },
+  {
+    "neighborhoodCode": "06-28",
+    "neighborhoodName": "Vila de Gràcia",
+    "districtCode": "06",
+    "districtName": "Gràcia",
+    "LAeq_Dia_dB": 65.5
+  },
+  {
+    "neighborhoodCode": "06-29",
+    "neighborhoodName": "Camp d'en Grassot i Gràcia Nova",
+    "districtCode": "06",
+    "districtName": "Gràcia",
+    "LAeq_Dia_dB": 64.9
+  },
+  {
+    "neighborhoodCode": "06-30",
+    "neighborhoodName": "La Salut",
+    "districtCode": "06",
+    "districtName": "Gràcia",
+    "LAeq_Dia_dB": 63.1
+  },
+  {
+    "neighborhoodCode": "06-31",
+    "neighborhoodName": "El Coll",
+    "districtCode": "06",
+    "districtName": "Gràcia",
+    "LAeq_Dia_dB": 58.0
+  },
+  {
+    "neighborhoodCode": "06-32",
+    "neighborhoodName": "Vallcarca i els Penitents",
+    "districtCode": "06",
+    "districtName": "Gràcia",
+    "LAeq_Dia_dB": 61.4
+  },
+  {
+    "neighborhoodCode": "07-33",
+    "neighborhoodName": "El Baix Guinardó",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "LAeq_Dia_dB": 60.8
+  },
+  {
+    "neighborhoodCode": "07-34",
+    "neighborhoodName": "Can Baró",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "LAeq_Dia_dB": 58.5
+  },
+  {
+    "neighborhoodCode": "07-35",
+    "neighborhoodName": "El Guinardó",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "LAeq_Dia_dB": 63.0
+  },
+  {
+    "neighborhoodCode": "07-36",
+    "neighborhoodName": "La Font d'en Fargues",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "LAeq_Dia_dB": 56.5
+  },
+  {
+    "neighborhoodCode": "07-37",
+    "neighborhoodName": "El Carmel",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "LAeq_Dia_dB": 61.5
+  },
+  {
+    "neighborhoodCode": "07-38",
+    "neighborhoodName": "La Teixonera",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "LAeq_Dia_dB": 60.1
+  },
+  {
+    "neighborhoodCode": "07-39",
+    "neighborhoodName": "Sant Genís dels Agudells",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "LAeq_Dia_dB": 54.9
+  },
+  {
+    "neighborhoodCode": "07-40",
+    "neighborhoodName": "Montbau",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "LAeq_Dia_dB": 53.0
+  },
+  {
+    "neighborhoodCode": "07-41",
+    "neighborhoodName": "La Vall d'Hebron",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "LAeq_Dia_dB": 64.0
+  },
+  {
+    "neighborhoodCode": "07-42",
+    "neighborhoodName": "La Clota",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "LAeq_Dia_dB": 50.5
+  },
+  {
+    "neighborhoodCode": "07-43",
+    "neighborhoodName": "Horta",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "LAeq_Dia_dB": 59.2
+  },
+  {
+    "neighborhoodCode": "08-44",
+    "neighborhoodName": "Vilapicina i la Torre Llobeta",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "LAeq_Dia_dB": 62.9
+  },
+  {
+    "neighborhoodCode": "08-45",
+    "neighborhoodName": "Porta",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "LAeq_Dia_dB": 64.5
+  },
+  {
+    "neighborhoodCode": "08-46",
+    "neighborhoodName": "El Turó de la Peira",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "LAeq_Dia_dB": 59.5
+  },
+  {
+    "neighborhoodCode": "08-47",
+    "neighborhoodName": "Can Peguera",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "LAeq_Dia_dB": 57.0
+  },
+  {
+    "neighborhoodCode": "08-48",
+    "neighborhoodName": "La Guineueta",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "LAeq_Dia_dB": 61.1
+  },
+  {
+    "neighborhoodCode": "08-49",
+    "neighborhoodName": "Canyelles",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "LAeq_Dia_dB": 56.2
+  },
+  {
+    "neighborhoodCode": "08-50",
+    "neighborhoodName": "Les Roquetes",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "LAeq_Dia_dB": 60.8
+  },
+  {
+    "neighborhoodCode": "08-51",
+    "neighborhoodName": "Verdum",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "LAeq_Dia_dB": 61.5
+  },
+  {
+    "neighborhoodCode": "08-52",
+    "neighborhoodName": "La Prosperitat",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "LAeq_Dia_dB": 63.0
+  },
+  {
+    "neighborhoodCode": "08-53",
+    "neighborhoodName": "Ciutat Meridiana",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "LAeq_Dia_dB": 52.8
+  },
+  {
+    "neighborhoodCode": "08-54",
+    "neighborhoodName": "Torre Baró",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "LAeq_Dia_dB": 51.5
+  },
+  {
+    "neighborhoodCode": "08-55",
+    "neighborhoodName": "Vallbona",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "LAeq_Dia_dB": 50.1
+  },
+  {
+    "neighborhoodCode": "08-56",
+    "neighborhoodName": "Trinitat Nova",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "LAeq_Dia_dB": 58.8
+  },
+  {
+    "neighborhoodCode": "09-57",
+    "neighborhoodName": "La Sagrera",
+    "districtCode": "09",
+    "districtName": "Sant Andreu",
+    "LAeq_Dia_dB": 65.0
+  },
+  {
+    "neighborhoodCode": "09-58",
+    "neighborhoodName": "El Congrés i els Indians",
+    "districtCode": "09",
+    "districtName": "Sant Andreu",
+    "LAeq_Dia_dB": 63.5
+  },
+  {
+    "neighborhoodCode": "09-59",
+    "neighborhoodName": "Sant Andreu de Palomar",
+    "districtCode": "09",
+    "districtName": "Sant Andreu",
+    "LAeq_Dia_dB": 61.9
+  },
+  {
+    "neighborhoodCode": "09-60",
+    "neighborhoodName": "El Bon Pastor",
+    "districtCode": "09",
+    "districtName": "Sant Andreu",
+    "LAeq_Dia_dB": 64.2
+  },
+  {
+    "neighborhoodCode": "09-61",
+    "neighborhoodName": "Baró de Viver",
+    "districtCode": "09",
+    "districtName": "Sant Andreu",
+    "LAeq_Dia_dB": 57.8
+  },
+  {
+    "neighborhoodCode": "09-62",
+    "neighborhoodName": "La Trinitat Vella",
+    "districtCode": "09",
+    "districtName": "Sant Andreu",
+    "LAeq_Dia_dB": 60.5
+  },
+  {
+    "neighborhoodCode": "09-63",
+    "neighborhoodName": "Navas",
+    "districtCode": "09",
+    "districtName": "Sant Andreu",
+    "LAeq_Dia_dB": 66.0
+  },
+  {
+    "neighborhoodCode": "10-64",
+    "neighborhoodName": "El Camp de l'Arpa del Clot",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "LAeq_Dia_dB": 65.5
+  },
+  {
+    "neighborhoodCode": "10-65",
+    "neighborhoodName": "El Clot",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "LAeq_Dia_dB": 67.1
+  },
+  {
+    "neighborhoodCode": "10-66",
+    "neighborhoodName": "El Parc i la Llacuna del Poblenou",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "LAeq_Dia_dB": 65.8
+  },
+  {
+    "neighborhoodCode": "10-67",
+    "neighborhoodName": "La Vila Olímpica del Poblenou",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "LAeq_Dia_dB": 68.3
+  },
+  {
+    "neighborhoodCode": "10-68",
+    "neighborhoodName": "El Poblenou",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "LAeq_Dia_dB": 67.5
+  },
+  {
+    "neighborhoodCode": "10-69",
+    "neighborhoodName": "Diagonal Mar i el Front Marítim del Poblenou",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "LAeq_Dia_dB": 66.9
+  },
+  {
+    "neighborhoodCode": "10-70",
+    "neighborhoodName": "El Besòs i el Maresme",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "LAeq_Dia_dB": 64.0
+  },
+  {
+    "neighborhoodCode": "10-71",
+    "neighborhoodName": "Provençals del Poblenou",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "LAeq_Dia_dB": 62.8
+  },
+  {
+    "neighborhoodCode": "10-72",
+    "neighborhoodName": "Sant Martí de Provençals",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "LAeq_Dia_dB": 63.7
+  },
+  {
+    "neighborhoodCode": "10-73",
+    "neighborhoodName": "La Verneda i la Pau",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "LAeq_Dia_dB": 61.2
+  }
+]
