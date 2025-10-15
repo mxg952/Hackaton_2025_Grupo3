@@ -1,0 +1,586 @@
+[
+  {
+    "neighborhoodCode": "01-1",
+    "neighborhoodName": "El Raval",
+    "districtCode": "01",
+    "districtName": "Ciutat Vella",
+    "populationDensityKm2": 44262,
+    "totalHUTs": 5600
+  },
+  {
+    "neighborhoodCode": "01-2",
+    "neighborhoodName": "El Barri Gòtic",
+    "districtCode": "01",
+    "districtName": "Ciutat Vella",
+    "populationDensityKm2": 32180,
+    "totalHUTs": 4900
+  },
+  {
+    "neighborhoodCode": "01-3",
+    "neighborhoodName": "Sant Pere, Santa Caterina i la Ribera",
+    "districtCode": "01",
+    "districtName": "Ciutat Vella",
+    "populationDensityKm2": 14117,
+    "totalHUTs": 3800
+  },
+  {
+    "neighborhoodCode": "01-4",
+    "neighborhoodName": "La Barceloneta",
+    "districtCode": "01",
+    "districtName": "Ciutat Vella",
+    "populationDensityKm2": 38500,
+    "totalHUTs": 4200
+  },
+  {
+    "neighborhoodCode": "02-5",
+    "neighborhoodName": "El Fort Pienc",
+    "districtCode": "02",
+    "districtName": "Eixample",
+    "populationDensityKm2": 26150,
+    "totalHUTs": 1500
+  },
+  {
+    "neighborhoodCode": "02-6",
+    "neighborhoodName": "La Sagrada Família",
+    "districtCode": "02",
+    "districtName": "Eixample",
+    "populationDensityKm2": 33100,
+    "totalHUTs": 3500
+  },
+  {
+    "neighborhoodCode": "02-7",
+    "neighborhoodName": "La Dreta de l'Eixample",
+    "districtCode": "02",
+    "districtName": "Eixample",
+    "populationDensityKm2": 23769,
+    "totalHUTs": 8800
+  },
+  {
+    "neighborhoodCode": "02-8",
+    "neighborhoodName": "L'Antiga Esquerra de l'Eixample",
+    "districtCode": "02",
+    "districtName": "Eixample",
+    "populationDensityKm2": 25500,
+    "totalHUTs": 4100
+  },
+  {
+    "neighborhoodCode": "02-9",
+    "neighborhoodName": "La Nova Esquerra de l'Eixample",
+    "districtCode": "02",
+    "districtName": "Eixample",
+    "populationDensityKm2": 22561,
+    "totalHUTs": 3000
+  },
+  {
+    "neighborhoodCode": "02-10",
+    "neighborhoodName": "Sant Antoni",
+    "districtCode": "02",
+    "districtName": "Eixample",
+    "populationDensityKm2": 24800,
+    "totalHUTs": 2200
+  },
+  {
+    "neighborhoodCode": "03-11",
+    "neighborhoodName": "El Poble Sec",
+    "districtCode": "03",
+    "districtName": "Sants-Montjuïc",
+    "populationDensityKm2": 17800,
+    "totalHUTs": 2100
+  },
+  {
+    "neighborhoodCode": "03-12",
+    "neighborhoodName": "La Marina del Prat Vermell",
+    "districtCode": "03",
+    "districtName": "Sants-Montjuïc",
+    "populationDensityKm2": 14272,
+    "totalHUTs": 150
+  },
+  {
+    "neighborhoodCode": "03-13",
+    "neighborhoodName": "La Font de la Guatlla",
+    "districtCode": "03",
+    "districtName": "Sants-Montjuïc",
+    "populationDensityKm2": 14303,
+    "totalHUTs": 350
+  },
+  {
+    "neighborhoodCode": "03-14",
+    "neighborhoodName": "Hostalfrancs",
+    "districtCode": "03",
+    "districtName": "Sants-Montjuïc",
+    "populationDensityKm2": 21500,
+    "totalHUTs": 1100
+  },
+  {
+    "neighborhoodCode": "03-15",
+    "neighborhoodName": "La Bordeta",
+    "districtCode": "03",
+    "districtName": "Sants-Montjuïc",
+    "populationDensityKm2": 20800,
+    "totalHUTs": 400
+  },
+  {
+    "neighborhoodCode": "03-16",
+    "neighborhoodName": "Sants - Badal",
+    "districtCode": "03",
+    "districtName": "Sants-Montjuïc",
+    "populationDensityKm2": 22500,
+    "totalHUTs": 850
+  },
+  {
+    "neighborhoodCode": "03-17",
+    "neighborhoodName": "Sants",
+    "districtCode": "03",
+    "districtName": "Sants-Montjuïc",
+    "populationDensityKm2": 20100,
+    "totalHUTs": 1800
+  },
+  {
+    "neighborhoodCode": "03-18",
+    "neighborhoodName": "Zona Franca - Port",
+    "districtCode": "03",
+    "districtName": "Sants-Montjuïc",
+    "populationDensityKm2": 50,
+    "totalHUTs": 10
+  },
+  {
+    "neighborhoodCode": "04-19",
+    "neighborhoodName": "Les Corts",
+    "districtCode": "04",
+    "districtName": "Les Corts",
+    "populationDensityKm2": 23381,
+    "totalHUTs": 550
+  },
+  {
+    "neighborhoodCode": "04-20",
+    "neighborhoodName": "La Maternitat i Sant Ramon",
+    "districtCode": "04",
+    "districtName": "Les Corts",
+    "populationDensityKm2": 23381,
+    "totalHUTs": 300
+  },
+  {
+    "neighborhoodCode": "04-21",
+    "neighborhoodName": "Pedralbes",
+    "districtCode": "04",
+    "districtName": "Les Corts",
+    "populationDensityKm2": 31219,
+    "totalHUTs": 180
+  },
+  {
+    "neighborhoodCode": "05-22",
+    "neighborhoodName": "Sarrià",
+    "districtCode": "05",
+    "districtName": "Sarrià-Sant Gervasi",
+    "populationDensityKm2": 12500,
+    "totalHUTs": 320
+  },
+  {
+    "neighborhoodCode": "05-23",
+    "neighborhoodName": "Les Tres Torres",
+    "districtCode": "05",
+    "districtName": "Sarrià-Sant Gervasi",
+    "populationDensityKm2": 15500,
+    "totalHUTs": 250
+  },
+  {
+    "neighborhoodCode": "05-24",
+    "neighborhoodName": "Sant Gervasi - Bonanova",
+    "districtCode": "05",
+    "districtName": "Sarrià-Sant Gervasi",
+    "populationDensityKm2": 33382,
+    "totalHUTs": 110
+  },
+  {
+    "neighborhoodCode": "05-25",
+    "neighborhoodName": "Sant Gervasi - Galvany",
+    "districtCode": "05",
+    "districtName": "Sarrià-Sant Gervasi",
+    "populationDensityKm2": 16800,
+    "totalHUTs": 1100
+  },
+  {
+    "neighborhoodCode": "05-26",
+    "neighborhoodName": "El Putxet i el Farró",
+    "districtCode": "05",
+    "districtName": "Sarrià-Sant Gervasi",
+    "populationDensityKm2": 29287,
+    "totalHUTs": 650
+  },
+  {
+    "neighborhoodCode": "05-27",
+    "neighborhoodName": "Vallvidrera, el Tibidabo i les Planes",
+    "districtCode": "05",
+    "districtName": "Sarrià-Sant Gervasi",
+    "populationDensityKm2": 31219,
+    "totalHUTs": 80
+  },
+  {
+    "neighborhoodCode": "06-28",
+    "neighborhoodName": "Vila de Gràcia",
+    "districtCode": "06",
+    "districtName": "Gràcia",
+    "populationDensityKm2": 32000,
+    "totalHUTs": 2200
+  },
+  {
+    "neighborhoodCode": "06-29",
+    "neighborhoodName": "Camp d'en Grassot i Gràcia Nova",
+    "districtCode": "06",
+    "districtName": "Gràcia",
+    "populationDensityKm2": 19570,
+    "totalHUTs": 950
+  },
+  {
+    "neighborhoodCode": "06-30",
+    "neighborhoodName": "La Salut",
+    "districtCode": "06",
+    "districtName": "Gràcia",
+    "populationDensityKm2": 28500,
+    "totalHUTs": 600
+  },
+  {
+    "neighborhoodCode": "06-31",
+    "neighborhoodName": "El Coll",
+    "districtCode": "06",
+    "districtName": "Gràcia",
+    "populationDensityKm2": 15000,
+    "totalHUTs": 150
+  },
+  {
+    "neighborhoodCode": "06-32",
+    "neighborhoodName": "Vallcarca i els Penitents",
+    "districtCode": "06",
+    "districtName": "Gràcia",
+    "populationDensityKm2": 17800,
+    "totalHUTs": 280
+  },
+  {
+    "neighborhoodCode": "07-33",
+    "neighborhoodName": "El Baix Guinardó",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "populationDensityKm2": 26000,
+    "totalHUTs": 220
+  },
+  {
+    "neighborhoodCode": "07-34",
+    "neighborhoodName": "Can Baró",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "populationDensityKm2": 15500,
+    "totalHUTs": 80
+  },
+  {
+    "neighborhoodCode": "07-35",
+    "neighborhoodName": "El Guinardó",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "populationDensityKm2": 25100,
+    "totalHUTs": 350
+  },
+  {
+    "neighborhoodCode": "07-36",
+    "neighborhoodName": "La Font d'en Fargues",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "populationDensityKm2": 17258,
+    "totalHUTs": 50
+  },
+  {
+    "neighborhoodCode": "07-37",
+    "neighborhoodName": "El Carmel",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "populationDensityKm2": 22000,
+    "totalHUTs": 90
+  },
+  {
+    "neighborhoodCode": "07-38",
+    "neighborhoodName": "La Teixonera",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "populationDensityKm2": 24500,
+    "totalHUTs": 75
+  },
+  {
+    "neighborhoodCode": "07-39",
+    "neighborhoodName": "Sant Genís dels Agudells",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "populationDensityKm2": 18500,
+    "totalHUTs": 25
+  },
+  {
+    "neighborhoodCode": "07-40",
+    "neighborhoodName": "Montbau",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "populationDensityKm2": 16000,
+    "totalHUTs": 0
+  },
+  {
+    "neighborhoodCode": "07-41",
+    "neighborhoodName": "La Vall d'Hebron",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "populationDensityKm2": 16264,
+    "totalHUTs": 120
+  },
+  {
+    "neighborhoodCode": "07-42",
+    "neighborhoodName": "La Clota",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "populationDensityKm2": 4500,
+    "totalHUTs": 0
+  },
+  {
+    "neighborhoodCode": "07-43",
+    "neighborhoodName": "Horta",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "populationDensityKm2": 21000,
+    "totalHUTs": 180
+  },
+  {
+    "neighborhoodCode": "08-44",
+    "neighborhoodName": "Vilapicina i la Torre Llobeta",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "populationDensityKm2": 16836,
+    "totalHUTs": 150
+  },
+  {
+    "neighborhoodCode": "08-45",
+    "neighborhoodName": "Porta",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "populationDensityKm2": 21500,
+    "totalHUTs": 100
+  },
+  {
+    "neighborhoodCode": "08-46",
+    "neighborhoodName": "El Turó de la Peira",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "populationDensityKm2": 14384,
+    "totalHUTs": 60
+  },
+  {
+    "neighborhoodCode": "08-47",
+    "neighborhoodName": "Can Peguera",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "populationDensityKm2": 12000,
+    "totalHUTs": 0
+  },
+  {
+    "neighborhoodCode": "08-48",
+    "neighborhoodName": "La Guineueta",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "populationDensityKm2": 18900,
+    "totalHUTs": 80
+  },
+  {
+    "neighborhoodCode": "08-49",
+    "neighborhoodName": "Canyelles",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "populationDensityKm2": 14000,
+    "totalHUTs": 30
+  },
+  {
+    "neighborhoodCode": "08-50",
+    "neighborhoodName": "Les Roquetes",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "populationDensityKm2": 17500,
+    "totalHUTs": 45
+  },
+  {
+    "neighborhoodCode": "08-51",
+    "neighborhoodName": "Verdum",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "populationDensityKm2": 20000,
+    "totalHUTs": 20
+  },
+  {
+    "neighborhoodCode": "08-52",
+    "neighborhoodName": "La Prosperitat",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "populationDensityKm2": 22000,
+    "totalHUTs": 75
+  },
+  {
+    "neighborhoodCode": "08-53",
+    "neighborhoodName": "Ciutat Meridiana",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "populationDensityKm2": 11000,
+    "totalHUTs": 0
+  },
+  {
+    "neighborhoodCode": "08-54",
+    "neighborhoodName": "Torre Baró",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "populationDensityKm2": 5500,
+    "totalHUTs": 0
+  },
+  {
+    "neighborhoodCode": "08-55",
+    "neighborhoodName": "Vallbona",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "populationDensityKm2": 3000,
+    "totalHUTs": 0
+  },
+  {
+    "neighborhoodCode": "08-56",
+    "neighborhoodName": "Trinitat Nova",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "populationDensityKm2": 13500,
+    "totalHUTs": 0
+  },
+  {
+    "neighborhoodCode": "09-57",
+    "neighborhoodName": "La Sagrera",
+    "districtCode": "09",
+    "districtName": "Sant Andreu",
+    "populationDensityKm2": 20500,
+    "totalHUTs": 150
+  },
+  {
+    "neighborhoodCode": "09-58",
+    "neighborhoodName": "El Congrés i els Indians",
+    "districtCode": "09",
+    "districtName": "Sant Andreu",
+    "populationDensityKm2": 23000,
+    "totalHUTs": 90
+  },
+  {
+    "neighborhoodCode": "09-59",
+    "neighborhoodName": "Sant Andreu de Palomar",
+    "districtCode": "09",
+    "districtName": "Sant Andreu",
+    "populationDensityKm2": 17800,
+    "totalHUTs": 120
+  },
+  {
+    "neighborhoodCode": "09-60",
+    "neighborhoodName": "El Bon Pastor",
+    "districtCode": "09",
+    "districtName": "Sant Andreu",
+    "populationDensityKm2": 15500,
+    "totalHUTs": 50
+  },
+  {
+    "neighborhoodCode": "09-61",
+    "neighborhoodName": "Baró de Viver",
+    "districtCode": "09",
+    "districtName": "Sant Andreu",
+    "populationDensityKm2": 9500,
+    "totalHUTs": 0
+  },
+  {
+    "neighborhoodCode": "09-62",
+    "neighborhoodName": "La Trinitat Vella",
+    "districtCode": "09",
+    "districtName": "Sant Andreu",
+    "populationDensityKm2": 14000,
+    "totalHUTs": 40
+  },
+  {
+    "neighborhoodCode": "09-63",
+    "neighborhoodName": "Navas",
+    "districtCode": "09",
+    "districtName": "Sant Andreu",
+    "populationDensityKm2": 28000,
+    "totalHUTs": 180
+  },
+  {
+    "neighborhoodCode": "10-64",
+    "neighborhoodName": "El Camp de l'Arpa del Clot",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "populationDensityKm2": 26000,
+    "totalHUTs": 800
+  },
+  {
+    "neighborhoodCode": "10-65",
+    "neighborhoodName": "El Clot",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "populationDensityKm2": 22500,
+    "totalHUTs": 650
+  },
+  {
+    "neighborhoodCode": "10-66",
+    "neighborhoodName": "El Parc i la Llacuna del Poblenou",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "populationDensityKm2": 9500,
+    "totalHUTs": 1800
+  },
+  {
+    "neighborhoodCode": "10-67",
+    "neighborhoodName": "La Vila Olímpica del Poblenou",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "populationDensityKm2": 16000,
+    "totalHUTs": 1500
+  },
+  {
+    "neighborhoodCode": "10-68",
+    "neighborhoodName": "El Poblenou",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "populationDensityKm2": 21300,
+    "totalHUTs": 3100
+  },
+  {
+    "neighborhoodCode": "10-69",
+    "neighborhoodName": "Diagonal Mar i el Front Marítim del Poblenou",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "populationDensityKm2": 4500,
+    "totalHUTs": 2500
+  },
+  {
+    "neighborhoodCode": "10-70",
+    "neighborhoodName": "El Besòs i el Maresme",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "populationDensityKm2": 15000,
+    "totalHUTs": 300
+  },
+  {
+    "neighborhoodCode": "10-71",
+    "neighborhoodName": "Provençals del Poblenou",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "populationDensityKm2": 18500,
+    "totalHUTs": 450
+  },
+  {
+    "neighborhoodCode": "10-72",
+    "neighborhoodName": "Sant Martí de Provençals",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "populationDensityKm2": 23000,
+    "totalHUTs": 350
+  },
+  {
+    "neighborhoodCode": "10-73",
+    "neighborhoodName": "La Verneda i la Pau",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "populationDensityKm2": 21800,
+    "totalHUTs": 200
+  }
+]
