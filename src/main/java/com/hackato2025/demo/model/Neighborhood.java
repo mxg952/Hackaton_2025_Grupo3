@@ -15,6 +15,6 @@ public class Neighborhood {
     private int population2024;
     private int populationDensityKm2;
     private MonthlyTourism monthlyTourism;
-
+    private int totalHUTs;
 }
 
