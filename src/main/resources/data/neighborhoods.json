@@ -1,0 +1,2776 @@
+[
+  {
+    "neighborhoodCode": "01-1",
+    "neighborhoodName": "El Raval",
+    "districtCode": "01",
+    "districtName": "Ciutat Vella",
+    "population2024": 48688,
+    "populationDensityKm2": 44262,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 165000,
+        "february": 178000,
+        "march": 220000,
+        "april": 265000,
+        "may": 305000,
+        "june": 330000,
+        "july": 380000,
+        "august": 410000,
+        "september": 325000,
+        "october": 280000,
+        "november": 195000,
+        "december": 245000
+      },
+      "districtTourismPercentage": {
+        "january": "25.0%",
+        "february": "26.0%",
+        "march": "24.5%",
+        "april": "23.0%",
+        "may": "22.0%",
+        "june": "21.5%",
+        "july": "20.5%",
+        "august": "21.0%",
+        "september": "22.5%",
+        "october": "23.5%",
+        "november": "24.0%",
+        "december": "23.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "01-2",
+    "neighborhoodName": "El Gòtic",
+    "districtCode": "01",
+    "districtName": "Ciutat Vella",
+    "population2024": 15670,
+    "populationDensityKm2": 24873,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 165000,
+        "february": 178000,
+        "march": 220000,
+        "april": 265000,
+        "may": 305000,
+        "june": 330000,
+        "july": 380000,
+        "august": 410000,
+        "september": 325000,
+        "october": 280000,
+        "november": 195000,
+        "december": 245000
+      },
+      "districtTourismPercentage": {
+        "january": "35.0%",
+        "february": "34.0%",
+        "march": "35.5%",
+        "april": "36.0%",
+        "may": "37.0%",
+        "june": "38.0%",
+        "july": "39.0%",
+        "august": "38.5%",
+        "september": "37.0%",
+        "october": "36.5%",
+        "november": "35.5%",
+        "december": "36.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "01-3",
+    "neighborhoodName": "La Barceloneta",
+    "districtCode": "01",
+    "districtName": "Ciutat Vella",
+    "population2024": 15004,
+    "populationDensityKm2": 19485,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 165000,
+        "february": 178000,
+        "march": 220000,
+        "april": 265000,
+        "may": 305000,
+        "june": 330000,
+        "july": 380000,
+        "august": 410000,
+        "september": 325000,
+        "october": 280000,
+        "november": 195000,
+        "december": 245000
+      },
+      "districtTourismPercentage": {
+        "january": "20.0%",
+        "february": "20.0%",
+        "march": "21.0%",
+        "april": "22.0%",
+        "may": "23.0%",
+        "june": "24.0%",
+        "july": "25.0%",
+        "august": "24.5%",
+        "september": "23.5%",
+        "october": "22.5%",
+        "november": "21.0%",
+        "december": "21.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "01-4",
+    "neighborhoodName": "Sant Pere, Santa Caterina i la Ribera",
+    "districtCode": "01",
+    "districtName": "Ciutat Vella",
+    "population2024": 23050,
+    "populationDensityKm2": 21870,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 165000,
+        "february": 178000,
+        "march": 220000,
+        "april": 265000,
+        "may": 305000,
+        "june": 330000,
+        "july": 380000,
+        "august": 410000,
+        "september": 325000,
+        "october": 280000,
+        "november": 195000,
+        "december": 245000
+      },
+      "districtTourismPercentage": {
+        "january": "20.0%",
+        "february": "20.0%",
+        "march": "19.0%",
+        "april": "18.5%",
+        "may": "18.0%",
+        "june": "16.5%",
+        "july": "15.5%",
+        "august": "16.0%",
+        "september": "17.0%",
+        "october": "17.5%",
+        "november": "19.5%",
+        "december": "19.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "02-5",
+    "neighborhoodName": "Fort Pienc",
+    "districtCode": "02",
+    "districtName": "Eixample",
+    "population2024": 30005,
+    "populationDensityKm2": 20003,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 150000,
+        "february": 165000,
+        "march": 200000,
+        "april": 250000,
+        "may": 290000,
+        "june": 320000,
+        "july": 360000,
+        "august": 390000,
+        "september": 300000,
+        "october": 270000,
+        "november": 180000,
+        "december": 220000
+      },
+      "districtTourismPercentage": {
+        "january": "12.0%",
+        "february": "11.5%",
+        "march": "12.5%",
+        "april": "13.0%",
+        "may": "12.5%",
+        "june": "11.5%",
+        "july": "10.5%",
+        "august": "10.0%",
+        "september": "11.0%",
+        "october": "11.5%",
+        "november": "12.0%",
+        "december": "12.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "02-6",
+    "neighborhoodName": "Sagrada Família",
+    "districtCode": "02",
+    "districtName": "Eixample",
+    "population2024": 52192,
+    "populationDensityKm2": 25092,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 150000,
+        "february": 165000,
+        "march": 200000,
+        "april": 250000,
+        "may": 290000,
+        "june": 320000,
+        "july": 360000,
+        "august": 390000,
+        "september": 300000,
+        "october": 270000,
+        "november": 180000,
+        "december": 220000
+      },
+      "districtTourismPercentage": {
+        "january": "25.0%",
+        "february": "26.0%",
+        "march": "27.0%",
+        "april": "28.0%",
+        "may": "29.0%",
+        "june": "30.0%",
+        "july": "31.0%",
+        "august": "32.0%",
+        "september": "31.0%",
+        "october": "29.0%",
+        "november": "27.0%",
+        "december": "28.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "02-7",
+    "neighborhoodName": "Dreta de l'Eixample",
+    "districtCode": "02",
+    "districtName": "Eixample",
+    "population2024": 44349,
+    "populationDensityKm2": 19782,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 150000,
+        "february": 165000,
+        "march": 200000,
+        "april": 250000,
+        "may": 290000,
+        "june": 320000,
+        "july": 360000,
+        "august": 390000,
+        "september": 300000,
+        "october": 270000,
+        "november": 180000,
+        "december": 220000
+      },
+      "districtTourismPercentage": {
+        "january": "28.0%",
+        "february": "27.5%",
+        "march": "26.0%",
+        "april": "24.5%",
+        "may": "23.0%",
+        "june": "22.0%",
+        "july": "21.5%",
+        "august": "20.5%",
+        "september": "22.0%",
+        "october": "23.5%",
+        "november": "25.0%",
+        "december": "24.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "02-8",
+    "neighborhoodName": "L'Antiga Esquerra de l'Eixample",
+    "districtCode": "02",
+    "districtName": "Eixample",
+    "population2024": 43500,
+    "populationDensityKm2": 22000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 150000,
+        "february": 165000,
+        "march": 200000,
+        "april": 250000,
+        "may": 290000,
+        "june": 320000,
+        "july": 360000,
+        "august": 390000,
+        "september": 300000,
+        "october": 270000,
+        "november": 180000,
+        "december": 220000
+      },
+      "districtTourismPercentage": {
+        "january": "14.0%",
+        "february": "13.5%",
+        "march": "13.0%",
+        "april": "12.5%",
+        "may": "12.0%",
+        "june": "11.0%",
+        "july": "10.0%",
+        "august": "9.5%",
+        "september": "10.0%",
+        "october": "11.0%",
+        "november": "12.5%",
+        "december": "13.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "02-9",
+    "neighborhoodName": "La Nova Esquerra de l'Eixample",
+    "districtCode": "02",
+    "districtName": "Eixample",
+    "population2024": 57900,
+    "populationDensityKm2": 21000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 150000,
+        "february": 165000,
+        "march": 200000,
+        "april": 250000,
+        "may": 290000,
+        "june": 320000,
+        "july": 360000,
+        "august": 390000,
+        "september": 300000,
+        "october": 270000,
+        "november": 180000,
+        "december": 220000
+      },
+      "districtTourismPercentage": {
+        "january": "10.0%",
+        "february": "10.5%",
+        "march": "10.0%",
+        "april": "9.5%",
+        "may": "10.0%",
+        "june": "10.5%",
+        "july": "11.0%",
+        "august": "11.5%",
+        "september": "11.0%",
+        "october": "10.5%",
+        "november": "10.0%",
+        "december": "9.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "02-10",
+    "neighborhoodName": "Sant Antoni",
+    "districtCode": "02",
+    "districtName": "Eixample",
+    "population2024": 41200,
+    "populationDensityKm2": 24000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 150000,
+        "february": 165000,
+        "march": 200000,
+        "april": 250000,
+        "may": 290000,
+        "june": 320000,
+        "july": 360000,
+        "august": 390000,
+        "september": 300000,
+        "october": 270000,
+        "november": 180000,
+        "december": 220000
+      },
+      "districtTourismPercentage": {
+        "january": "11.0%",
+        "february": "11.0%",
+        "march": "9.5%",
+        "april": "12.5%",
+        "may": "13.5%",
+        "june": "15.0%",
+        "july": "16.0%",
+        "august": "16.5%",
+        "september": "15.0%",
+        "october": "14.5%",
+        "november": "15.5%",
+        "december": "14.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "03-11",
+    "neighborhoodName": "El Poble Sec",
+    "districtCode": "03",
+    "districtName": "Sants-Montjuïc",
+    "population2024": 38900,
+    "populationDensityKm2": 15000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 95000,
+        "february": 105000,
+        "march": 130000,
+        "april": 170000,
+        "may": 200000,
+        "june": 230000,
+        "july": 260000,
+        "august": 280000,
+        "september": 210000,
+        "october": 180000,
+        "november": 120000,
+        "december": 150000
+      },
+      "districtTourismPercentage": {
+        "january": "15.0%",
+        "february": "16.0%",
+        "march": "17.0%",
+        "april": "18.0%",
+        "may": "17.5%",
+        "june": "17.0%",
+        "july": "16.5%",
+        "august": "16.0%",
+        "september": "15.5%",
+        "october": "16.0%",
+        "november": "17.0%",
+        "december": "16.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "03-12",
+    "neighborhoodName": "La Marina del Prat Vermell",
+    "districtCode": "03",
+    "districtName": "Sants-Montjuïc",
+    "population2024": 12000,
+    "populationDensityKm2": 2500,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 95000,
+        "february": 105000,
+        "march": 130000,
+        "april": 170000,
+        "may": 200000,
+        "june": 230000,
+        "july": 260000,
+        "august": 280000,
+        "september": 210000,
+        "october": 180000,
+        "november": 120000,
+        "december": 150000
+      },
+      "districtTourismPercentage": {
+        "january": "3.0%",
+        "february": "3.0%",
+        "march": "3.0%",
+        "april": "3.0%",
+        "may": "3.0%",
+        "june": "3.0%",
+        "july": "3.0%",
+        "august": "3.0%",
+        "september": "3.0%",
+        "october": "3.0%",
+        "november": "3.0%",
+        "december": "3.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "03-13",
+    "neighborhoodName": "La Marina de Port",
+    "districtCode": "03",
+    "districtName": "Sants-Montjuïc",
+    "population2024": 30500,
+    "populationDensityKm2": 8000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 95000,
+        "february": 105000,
+        "march": 130000,
+        "april": 170000,
+        "may": 200000,
+        "june": 230000,
+        "july": 260000,
+        "august": 280000,
+        "september": 210000,
+        "october": 180000,
+        "november": 120000,
+        "december": 150000
+      },
+      "districtTourismPercentage": {
+        "january": "8.0%",
+        "february": "7.5%",
+        "march": "7.0%",
+        "april": "6.5%",
+        "may": "6.0%",
+        "june": "5.5%",
+        "july": "5.0%",
+        "august": "5.0%",
+        "september": "5.5%",
+        "october": "6.0%",
+        "november": "7.0%",
+        "december": "7.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "03-14",
+    "neighborhoodName": "La Font de la Guatlla",
+    "districtCode": "03",
+    "districtName": "Sants-Montjuïc",
+    "population2024": 10000,
+    "populationDensityKm2": 11000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 95000,
+        "february": 105000,
+        "march": 130000,
+        "april": 170000,
+        "may": 200000,
+        "june": 230000,
+        "july": 260000,
+        "august": 280000,
+        "september": 210000,
+        "october": 180000,
+        "november": 120000,
+        "december": 150000
+      },
+      "districtTourismPercentage": {
+        "january": "5.0%",
+        "february": "4.5%",
+        "march": "4.0%",
+        "april": "3.5%",
+        "may": "3.0%",
+        "june": "2.5%",
+        "july": "2.0%",
+        "august": "2.0%",
+        "september": "2.5%",
+        "october": "3.0%",
+        "november": "4.0%",
+        "december": "4.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "03-15",
+    "neighborhoodName": "Hostafrancs",
+    "districtCode": "03",
+    "districtName": "Sants-Montjuïc",
+    "population2024": 15500,
+    "populationDensityKm2": 24000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 95000,
+        "february": 105000,
+        "march": 130000,
+        "april": 170000,
+        "may": 200000,
+        "june": 230000,
+        "july": 260000,
+        "august": 280000,
+        "september": 210000,
+        "october": 180000,
+        "november": 120000,
+        "december": 150000
+      },
+      "districtTourismPercentage": {
+        "january": "10.0%",
+        "february": "10.5%",
+        "march": "10.5%",
+        "april": "11.0%",
+        "may": "11.5%",
+        "june": "12.0%",
+        "july": "12.5%",
+        "august": "13.0%",
+        "september": "12.5%",
+        "october": "12.0%",
+        "november": "11.5%",
+        "december": "11.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "03-16",
+    "neighborhoodName": "La Bordeta",
+    "districtCode": "03",
+    "districtName": "Sants-Montjuïc",
+    "population2024": 19000,
+    "populationDensityKm2": 18000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 95000,
+        "february": 105000,
+        "march": 130000,
+        "april": 170000,
+        "may": 200000,
+        "june": 230000,
+        "july": 260000,
+        "august": 280000,
+        "september": 210000,
+        "october": 180000,
+        "november": 120000,
+        "december": 150000
+      },
+      "districtTourismPercentage": {
+        "january": "12.0%",
+        "february": "11.5%",
+        "march": "11.0%",
+        "april": "10.5%",
+        "may": "10.0%",
+        "june": "9.5%",
+        "july": "9.0%",
+        "august": "8.5%",
+        "september": "9.0%",
+        "october": "9.5%",
+        "november": "10.0%",
+        "december": "10.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "03-17",
+    "neighborhoodName": "Sants-Badal",
+    "districtCode": "03",
+    "districtName": "Sants-Montjuïc",
+    "population2024": 24000,
+    "populationDensityKm2": 25000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 95000,
+        "february": 105000,
+        "march": 130000,
+        "april": 170000,
+        "may": 200000,
+        "june": 230000,
+        "july": 260000,
+        "august": 280000,
+        "september": 210000,
+        "october": 180000,
+        "november": 120000,
+        "december": 150000
+      },
+      "districtTourismPercentage": {
+        "january": "15.0%",
+        "february": "14.5%",
+        "march": "14.0%",
+        "april": "13.5%",
+        "may": "13.0%",
+        "june": "12.5%",
+        "july": "12.0%",
+        "august": "11.5%",
+        "september": "12.0%",
+        "october": "12.5%",
+        "november": "13.0%",
+        "december": "13.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "03-18",
+    "neighborhoodName": "Sants",
+    "districtCode": "03",
+    "districtName": "Sants-Montjuïc",
+    "population2024": 42000,
+    "populationDensityKm2": 24000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 95000,
+        "february": 105000,
+        "march": 130000,
+        "april": 170000,
+        "may": 200000,
+        "june": 230000,
+        "july": 260000,
+        "august": 280000,
+        "september": 210000,
+        "october": 180000,
+        "november": 120000,
+        "december": 150000
+      },
+      "districtTourismPercentage": {
+        "january": "22.0%",
+        "february": "22.5%",
+        "march": "23.0%",
+        "april": "23.5%",
+        "may": "24.0%",
+        "june": "24.5%",
+        "july": "25.0%",
+        "august": "25.5%",
+        "september": "25.0%",
+        "october": "24.5%",
+        "november": "23.5%",
+        "december": "23.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "04-19",
+    "neighborhoodName": "Les Corts",
+    "districtCode": "04",
+    "districtName": "Les Corts",
+    "population2024": 45000,
+    "populationDensityKm2": 15000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 70000,
+        "february": 85000,
+        "march": 110000,
+        "april": 140000,
+        "may": 160000,
+        "june": 175000,
+        "july": 190000,
+        "august": 180000,
+        "september": 150000,
+        "october": 120000,
+        "november": 80000,
+        "december": 95000
+      },
+      "districtTourismPercentage": {
+        "january": "38.0%",
+        "february": "37.5%",
+        "march": "37.0%",
+        "april": "36.0%",
+        "may": "35.0%",
+        "june": "34.0%",
+        "july": "33.0%",
+        "august": "32.0%",
+        "september": "33.0%",
+        "october": "34.5%",
+        "november": "36.0%",
+        "december": "37.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "04-20",
+    "neighborhoodName": "La Maternitat i Sant Ramon",
+    "districtCode": "04",
+    "districtName": "Les Corts",
+    "population2024": 25000,
+    "populationDensityKm2": 10000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 70000,
+        "february": 85000,
+        "march": 110000,
+        "april": 140000,
+        "may": 160000,
+        "june": 175000,
+        "july": 190000,
+        "august": 180000,
+        "september": 150000,
+        "october": 120000,
+        "november": 80000,
+        "december": 95000
+      },
+      "districtTourismPercentage": {
+        "january": "35.0%",
+        "february": "36.0%",
+        "march": "36.5%",
+        "april": "37.0%",
+        "may": "37.5%",
+        "june": "38.0%",
+        "july": "38.5%",
+        "august": "39.0%",
+        "september": "38.5%",
+        "october": "38.0%",
+        "november": "37.0%",
+        "december": "36.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "04-21",
+    "neighborhoodName": "Pedralbes",
+    "districtCode": "04",
+    "districtName": "Les Corts",
+    "population2024": 11000,
+    "populationDensityKm2": 4500,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 70000,
+        "february": 85000,
+        "march": 110000,
+        "april": 140000,
+        "may": 160000,
+        "june": 175000,
+        "july": 190000,
+        "august": 180000,
+        "september": 150000,
+        "october": 120000,
+        "november": 80000,
+        "december": 95000
+      },
+      "districtTourismPercentage": {
+        "january": "27.0%",
+        "february": "26.5%",
+        "march": "26.5%",
+        "april": "27.0%",
+        "may": "27.5%",
+        "june": "28.0%",
+        "july": "28.5%",
+        "august": "29.0%",
+        "september": "28.5%",
+        "october": "27.5%",
+        "november": "27.0%",
+        "december": "27.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "05-22",
+    "neighborhoodName": "Vallvidrera, el Tibidabo i les Planes",
+    "districtCode": "05",
+    "districtName": "Sarrià-Sant Gervasi",
+    "population2024": 4200,
+    "populationDensityKm2": 300,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 60000,
+        "february": 70000,
+        "march": 90000,
+        "april": 120000,
+        "may": 140000,
+        "june": 160000,
+        "july": 180000,
+        "august": 170000,
+        "september": 130000,
+        "october": 100000,
+        "november": 70000,
+        "december": 85000
+      },
+      "districtTourismPercentage": {
+        "january": "10.0%",
+        "february": "11.0%",
+        "march": "12.0%",
+        "april": "13.0%",
+        "may": "14.0%",
+        "june": "15.0%",
+        "july": "16.0%",
+        "august": "17.0%",
+        "september": "16.0%",
+        "october": "15.0%",
+        "november": "14.0%",
+        "december": "13.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "05-23",
+    "neighborhoodName": "Sarrià",
+    "districtCode": "05",
+    "districtName": "Sarrià-Sant Gervasi",
+    "population2024": 24000,
+    "populationDensityKm2": 7000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 60000,
+        "february": 70000,
+        "march": 90000,
+        "april": 120000,
+        "may": 140000,
+        "june": 160000,
+        "july": 180000,
+        "august": 170000,
+        "september": 130000,
+        "october": 100000,
+        "november": 70000,
+        "december": 85000
+      },
+      "districtTourismPercentage": {
+        "january": "18.0%",
+        "february": "17.0%",
+        "march": "16.0%",
+        "april": "15.0%",
+        "may": "14.0%",
+        "june": "13.0%",
+        "july": "12.0%",
+        "august": "11.0%",
+        "september": "12.0%",
+        "october": "13.0%",
+        "november": "14.0%",
+        "december": "15.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "05-24",
+    "neighborhoodName": "Les Tres Torres",
+    "districtCode": "05",
+    "districtName": "Sarrià-Sant Gervasi",
+    "population2024": 16000,
+    "populationDensityKm2": 10000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 60000,
+        "february": 70000,
+        "march": 90000,
+        "april": 120000,
+        "may": 140000,
+        "june": 160000,
+        "july": 180000,
+        "august": 170000,
+        "september": 130000,
+        "october": 100000,
+        "november": 70000,
+        "december": 85000
+      },
+      "districtTourismPercentage": {
+        "january": "10.0%",
+        "february": "9.5%",
+        "march": "9.0%",
+        "april": "8.5%",
+        "may": "8.0%",
+        "june": "7.5%",
+        "july": "7.0%",
+        "august": "6.5%",
+        "september": "7.0%",
+        "october": "8.0%",
+        "november": "9.0%",
+        "december": "9.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "05-25",
+    "neighborhoodName": "Sant Gervasi - Bonanova",
+    "districtCode": "05",
+    "districtName": "Sarrià-Sant Gervasi",
+    "population2024": 25000,
+    "populationDensityKm2": 10500,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 60000,
+        "february": 70000,
+        "march": 90000,
+        "april": 120000,
+        "may": 140000,
+        "june": 160000,
+        "july": 180000,
+        "august": 170000,
+        "september": 130000,
+        "october": 100000,
+        "november": 70000,
+        "december": 85000
+      },
+      "districtTourismPercentage": {
+        "january": "15.0%",
+        "february": "15.5%",
+        "march": "16.0%",
+        "april": "16.5%",
+        "may": "17.0%",
+        "june": "17.5%",
+        "july": "18.0%",
+        "august": "18.5%",
+        "september": "18.0%",
+        "october": "17.5%",
+        "november": "16.5%",
+        "december": "16.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "05-26",
+    "neighborhoodName": "Sant Gervasi - Galvany",
+    "districtCode": "05",
+    "districtName": "Sarrià-Sant Gervasi",
+    "population2024": 36000,
+    "populationDensityKm2": 15000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 60000,
+        "february": 70000,
+        "march": 90000,
+        "april": 120000,
+        "may": 140000,
+        "june": 160000,
+        "july": 180000,
+        "august": 170000,
+        "september": 130000,
+        "october": 100000,
+        "november": 70000,
+        "december": 85000
+      },
+      "districtTourismPercentage": {
+        "january": "25.0%",
+        "february": "24.5%",
+        "march": "24.0%",
+        "april": "23.5%",
+        "may": "23.0%",
+        "june": "22.5%",
+        "july": "22.0%",
+        "august": "21.5%",
+        "september": "22.0%",
+        "october": "23.0%",
+        "november": "24.0%",
+        "december": "24.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "05-27",
+    "neighborhoodName": "El Putxet i el Farró",
+    "districtCode": "05",
+    "districtName": "Sarrià-Sant Gervasi",
+    "population2024": 29000,
+    "populationDensityKm2": 16000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 60000,
+        "february": 70000,
+        "march": 90000,
+        "april": 120000,
+        "may": 140000,
+        "june": 160000,
+        "july": 180000,
+        "august": 170000,
+        "september": 130000,
+        "october": 100000,
+        "november": 70000,
+        "december": 85000
+      },
+      "districtTourismPercentage": {
+        "january": "22.0%",
+        "february": "23.0%",
+        "march": "23.5%",
+        "april": "23.5%",
+        "may": "23.5%",
+        "june": "23.0%",
+        "july": "22.0%",
+        "august": "21.5%",
+        "september": "21.5%",
+        "october": "22.0%",
+        "november": "22.5%",
+        "december": "22.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "06-28",
+    "neighborhoodName": "Vila de Gràcia",
+    "districtCode": "06",
+    "districtName": "Gràcia",
+    "population2024": 50000,
+    "populationDensityKm2": 33000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 80000,
+        "february": 90000,
+        "march": 120000,
+        "april": 150000,
+        "may": 180000,
+        "june": 200000,
+        "july": 220000,
+        "august": 230000,
+        "september": 170000,
+        "october": 140000,
+        "november": 100000,
+        "december": 120000
+      },
+      "districtTourismPercentage": {
+        "january": "45.0%",
+        "february": "44.0%",
+        "march": "43.0%",
+        "april": "42.0%",
+        "may": "41.0%",
+        "june": "40.0%",
+        "july": "39.0%",
+        "august": "38.0%",
+        "september": "40.0%",
+        "october": "42.0%",
+        "november": "43.5%",
+        "december": "44.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "06-29",
+    "neighborhoodName": "Vallcarca i els Penitents",
+    "districtCode": "06",
+    "districtName": "Gràcia",
+    "population2024": 16000,
+    "populationDensityKm2": 5500,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 80000,
+        "february": 90000,
+        "march": 120000,
+        "april": 150000,
+        "may": 180000,
+        "june": 200000,
+        "july": 220000,
+        "august": 230000,
+        "september": 170000,
+        "october": 140000,
+        "november": 100000,
+        "december": 120000
+      },
+      "districtTourismPercentage": {
+        "january": "10.0%",
+        "february": "10.5%",
+        "march": "11.0%",
+        "april": "11.5%",
+        "may": "12.0%",
+        "june": "12.5%",
+        "july": "13.0%",
+        "august": "13.5%",
+        "september": "13.0%",
+        "october": "12.0%",
+        "november": "11.0%",
+        "december": "10.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "06-30",
+    "neighborhoodName": "El Coll",
+    "districtCode": "06",
+    "districtName": "Gràcia",
+    "population2024": 7500,
+    "populationDensityKm2": 8000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 80000,
+        "february": 90000,
+        "march": 120000,
+        "april": 150000,
+        "may": 180000,
+        "june": 200000,
+        "july": 220000,
+        "august": 230000,
+        "september": 170000,
+        "october": 140000,
+        "november": 100000,
+        "december": 120000
+      },
+      "districtTourismPercentage": {
+        "january": "5.0%",
+        "february": "5.0%",
+        "march": "4.5%",
+        "april": "4.0%",
+        "may": "3.5%",
+        "june": "3.0%",
+        "july": "2.5%",
+        "august": "2.0%",
+        "september": "3.0%",
+        "october": "4.0%",
+        "november": "4.5%",
+        "december": "4.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "06-31",
+    "neighborhoodName": "La Salut",
+    "districtCode": "06",
+    "districtName": "Gràcia",
+    "population2024": 13500,
+    "populationDensityKm2": 15000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 80000,
+        "february": 90000,
+        "march": 120000,
+        "april": 150000,
+        "may": 180000,
+        "june": 200000,
+        "july": 220000,
+        "august": 230000,
+        "september": 170000,
+        "october": 140000,
+        "november": 100000,
+        "december": 120000
+      },
+      "districtTourismPercentage": {
+        "january": "15.0%",
+        "february": "16.0%",
+        "march": "17.0%",
+        "april": "18.0%",
+        "may": "19.0%",
+        "june": "20.0%",
+        "july": "21.0%",
+        "august": "22.0%",
+        "september": "21.0%",
+        "october": "19.0%",
+        "november": "17.0%",
+        "december": "16.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "06-32",
+    "neighborhoodName": "Camp d'en Grassot i Gràcia Nova",
+    "districtCode": "06",
+    "districtName": "Gràcia",
+    "population2024": 34000,
+    "populationDensityKm2": 22000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 80000,
+        "february": 90000,
+        "march": 120000,
+        "april": 150000,
+        "may": 180000,
+        "june": 200000,
+        "july": 220000,
+        "august": 230000,
+        "september": 170000,
+        "october": 140000,
+        "november": 100000,
+        "december": 120000
+      },
+      "districtTourismPercentage": {
+        "january": "25.0%",
+        "february": "24.5%",
+        "march": "24.5%",
+        "april": "24.5%",
+        "may": "24.5%",
+        "june": "24.5%",
+        "july": "24.5%",
+        "august": "24.5%",
+        "september": "23.0%",
+        "october": "21.0%",
+        "november": "20.0%",
+        "december": "20.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "07-33",
+    "neighborhoodName": "El Baix Guinardó",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "population2024": 25000,
+    "populationDensityKm2": 20000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 45000,
+        "february": 55000,
+        "march": 70000,
+        "april": 95000,
+        "may": 110000,
+        "june": 120000,
+        "july": 130000,
+        "august": 140000,
+        "september": 100000,
+        "october": 80000,
+        "november": 55000,
+        "december": 65000
+      },
+      "districtTourismPercentage": {
+        "january": "15.0%",
+        "february": "14.5%",
+        "march": "14.0%",
+        "april": "13.5%",
+        "may": "13.0%",
+        "june": "12.5%",
+        "july": "12.0%",
+        "august": "11.5%",
+        "september": "12.0%",
+        "october": "13.0%",
+        "november": "14.0%",
+        "december": "14.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "07-34",
+    "neighborhoodName": "Can Baró",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "population2024": 9500,
+    "populationDensityKm2": 7000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 45000,
+        "february": 55000,
+        "march": 70000,
+        "april": 95000,
+        "may": 110000,
+        "june": 120000,
+        "july": 130000,
+        "august": 140000,
+        "september": 100000,
+        "october": 80000,
+        "november": 55000,
+        "december": 65000
+      },
+      "districtTourismPercentage": {
+        "january": "6.0%",
+        "february": "6.0%",
+        "march": "6.0%",
+        "april": "6.0%",
+        "may": "6.0%",
+        "june": "6.0%",
+        "july": "6.0%",
+        "august": "6.0%",
+        "september": "6.0%",
+        "october": "6.0%",
+        "november": "6.0%",
+        "december": "6.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "07-35",
+    "neighborhoodName": "El Guinardó",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "population2024": 37000,
+    "populationDensityKm2": 21000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 45000,
+        "february": 55000,
+        "march": 70000,
+        "april": 95000,
+        "may": 110000,
+        "june": 120000,
+        "july": 130000,
+        "august": 140000,
+        "september": 100000,
+        "october": 80000,
+        "november": 55000,
+        "december": 65000
+      },
+      "districtTourismPercentage": {
+        "january": "25.0%",
+        "february": "24.5%",
+        "march": "24.0%",
+        "april": "23.5%",
+        "may": "23.0%",
+        "june": "22.5%",
+        "july": "22.0%",
+        "august": "21.5%",
+        "september": "22.0%",
+        "october": "23.0%",
+        "november": "24.0%",
+        "december": "24.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "07-36",
+    "neighborhoodName": "La Font d'en Fargues",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "population2024": 9500,
+    "populationDensityKm2": 8500,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 45000,
+        "february": 55000,
+        "march": 70000,
+        "april": 95000,
+        "may": 110000,
+        "june": 120000,
+        "july": 130000,
+        "august": 140000,
+        "september": 100000,
+        "october": 80000,
+        "november": 55000,
+        "december": 65000
+      },
+      "districtTourismPercentage": {
+        "january": "5.0%",
+        "february": "4.5%",
+        "march": "4.0%",
+        "april": "3.5%",
+        "may": "3.0%",
+        "june": "2.5%",
+        "july": "2.0%",
+        "august": "2.0%",
+        "september": "2.5%",
+        "october": "3.0%",
+        "november": "4.0%",
+        "december": "4.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "07-37",
+    "neighborhoodName": "El Carmel",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "population2024": 32000,
+    "populationDensityKm2": 16000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 45000,
+        "february": 55000,
+        "march": 70000,
+        "april": 95000,
+        "may": 110000,
+        "june": 120000,
+        "july": 130000,
+        "august": 140000,
+        "september": 100000,
+        "october": 80000,
+        "november": 55000,
+        "december": 65000
+      },
+      "districtTourismPercentage": {
+        "january": "10.0%",
+        "february": "11.0%",
+        "march": "12.0%",
+        "april": "13.0%",
+        "may": "14.0%",
+        "june": "15.0%",
+        "july": "16.0%",
+        "august": "17.0%",
+        "september": "16.0%",
+        "october": "15.0%",
+        "november": "14.0%",
+        "december": "13.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "07-38",
+    "neighborhoodName": "La Teixonera",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "population2024": 11000,
+    "populationDensityKm2": 10000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 45000,
+        "february": 55000,
+        "march": 70000,
+        "april": 95000,
+        "may": 110000,
+        "june": 120000,
+        "july": 130000,
+        "august": 140000,
+        "september": 100000,
+        "october": 80000,
+        "november": 55000,
+        "december": 65000
+      },
+      "districtTourismPercentage": {
+        "january": "5.0%",
+        "february": "4.5%",
+        "march": "4.0%",
+        "april": "3.5%",
+        "may": "3.0%",
+        "june": "2.5%",
+        "july": "2.0%",
+        "august": "2.0%",
+        "september": "2.5%",
+        "october": "3.0%",
+        "november": "4.0%",
+        "december": "4.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "07-39",
+    "neighborhoodName": "Sant Genís dels Agudells",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "population2024": 7500,
+    "populationDensityKm2": 6000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 45000,
+        "february": 55000,
+        "march": 70000,
+        "april": 95000,
+        "may": 110000,
+        "june": 120000,
+        "july": 130000,
+        "august": 140000,
+        "september": 100000,
+        "october": 80000,
+        "november": 55000,
+        "december": 65000
+      },
+      "districtTourismPercentage": {
+        "january": "4.0%",
+        "february": "4.0%",
+        "march": "4.0%",
+        "april": "4.0%",
+        "may": "4.0%",
+        "june": "4.0%",
+        "july": "4.0%",
+        "august": "4.0%",
+        "september": "4.0%",
+        "october": "4.0%",
+        "november": "4.0%",
+        "december": "4.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "07-40",
+    "neighborhoodName": "Montbau",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "population2024": 7000,
+    "populationDensityKm2": 5000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 45000,
+        "february": 55000,
+        "march": 70000,
+        "april": 95000,
+        "may": 110000,
+        "june": 120000,
+        "july": 130000,
+        "august": 140000,
+        "september": 100000,
+        "october": 80000,
+        "november": 55000,
+        "december": 65000
+      },
+      "districtTourismPercentage": {
+        "january": "4.0%",
+        "february": "4.0%",
+        "march": "4.0%",
+        "april": "4.0%",
+        "may": "4.0%",
+        "june": "4.0%",
+        "july": "4.0%",
+        "august": "4.0%",
+        "september": "4.0%",
+        "october": "4.0%",
+        "november": "4.0%",
+        "december": "4.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "07-41",
+    "neighborhoodName": "La Vall d'Hebron",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "population2024": 15000,
+    "populationDensityKm2": 12000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 45000,
+        "february": 55000,
+        "march": 70000,
+        "april": 95000,
+        "may": 110000,
+        "june": 120000,
+        "july": 130000,
+        "august": 140000,
+        "september": 100000,
+        "october": 80000,
+        "november": 55000,
+        "december": 65000
+      },
+      "districtTourismPercentage": {
+        "january": "10.0%",
+        "february": "10.0%",
+        "march": "10.0%",
+        "april": "10.0%",
+        "may": "10.0%",
+        "june": "10.0%",
+        "july": "10.0%",
+        "august": "10.0%",
+        "september": "10.0%",
+        "october": "10.0%",
+        "november": "10.0%",
+        "december": "10.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "07-42",
+    "neighborhoodName": "La Clota",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "population2024": 7000,
+    "populationDensityKm2": 4500,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 45000,
+        "february": 55000,
+        "march": 70000,
+        "april": 95000,
+        "may": 110000,
+        "june": 120000,
+        "july": 130000,
+        "august": 140000,
+        "september": 100000,
+        "october": 80000,
+        "november": 55000,
+        "december": 65000
+      },
+      "districtTourismPercentage": {
+        "january": "4.0%",
+        "february": "4.0%",
+        "march": "4.0%",
+        "april": "4.0%",
+        "may": "4.0%",
+        "june": "4.0%",
+        "july": "4.0%",
+        "august": "4.0%",
+        "september": "4.0%",
+        "october": "4.0%",
+        "november": "4.0%",
+        "december": "4.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "07-43",
+    "neighborhoodName": "Horta",
+    "districtCode": "07",
+    "districtName": "Horta-Guinardó",
+    "population2024": 29000,
+    "populationDensityKm2": 15000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 45000,
+        "february": 55000,
+        "march": 70000,
+        "april": 95000,
+        "may": 110000,
+        "june": 120000,
+        "july": 130000,
+        "august": 140000,
+        "september": 100000,
+        "october": 80000,
+        "november": 55000,
+        "december": 65000
+      },
+      "districtTourismPercentage": {
+        "january": "17.0%",
+        "february": "17.0%",
+        "march": "17.0%",
+        "april": "17.0%",
+        "may": "17.0%",
+        "june": "17.0%",
+        "july": "17.0%",
+        "august": "17.0%",
+        "september": "17.0%",
+        "october": "17.0%",
+        "november": "17.0%",
+        "december": "17.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "08-44",
+    "neighborhoodName": "Vilapicina i la Torre Llobeta",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "population2024": 22000,
+    "populationDensityKm2": 18000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 20000,
+        "february": 25000,
+        "march": 35000,
+        "april": 50000,
+        "may": 60000,
+        "june": 70000,
+        "july": 80000,
+        "august": 75000,
+        "september": 55000,
+        "october": 40000,
+        "november": 25000,
+        "december": 30000
+      },
+      "districtTourismPercentage": {
+        "january": "10.0%",
+        "february": "10.5%",
+        "march": "10.0%",
+        "april": "9.5%",
+        "may": "9.0%",
+        "june": "8.5%",
+        "july": "8.0%",
+        "august": "8.0%",
+        "september": "8.5%",
+        "october": "9.0%",
+        "november": "9.5%",
+        "december": "10.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "08-45",
+    "neighborhoodName": "Porta",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "population2024": 26000,
+    "populationDensityKm2": 21000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 20000,
+        "february": 25000,
+        "march": 35000,
+        "april": 50000,
+        "may": 60000,
+        "june": 70000,
+        "july": 80000,
+        "august": 75000,
+        "september": 55000,
+        "october": 40000,
+        "november": 25000,
+        "december": 30000
+      },
+      "districtTourismPercentage": {
+        "january": "12.0%",
+        "february": "11.5%",
+        "march": "11.0%",
+        "april": "10.5%",
+        "may": "10.0%",
+        "june": "9.5%",
+        "july": "9.0%",
+        "august": "9.0%",
+        "september": "9.5%",
+        "october": "10.0%",
+        "november": "11.0%",
+        "december": "11.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "08-46",
+    "neighborhoodName": "El Turó de la Peira",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "population2024": 16000,
+    "populationDensityKm2": 15000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 20000,
+        "february": 25000,
+        "march": 35000,
+        "april": 50000,
+        "may": 60000,
+        "june": 70000,
+        "july": 80000,
+        "august": 75000,
+        "september": 55000,
+        "october": 40000,
+        "november": 25000,
+        "december": 30000
+      },
+      "districtTourismPercentage": {
+        "january": "8.0%",
+        "february": "8.0%",
+        "march": "8.0%",
+        "april": "8.0%",
+        "may": "8.0%",
+        "june": "8.0%",
+        "july": "8.0%",
+        "august": "8.0%",
+        "september": "8.0%",
+        "october": "8.0%",
+        "november": "8.0%",
+        "december": "8.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "08-47",
+    "neighborhoodName": "Can Peguera",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "population2024": 3000,
+    "populationDensityKm2": 13000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 20000,
+        "february": 25000,
+        "march": 35000,
+        "april": 50000,
+        "may": 60000,
+        "june": 70000,
+        "july": 80000,
+        "august": 75000,
+        "september": 55000,
+        "october": 40000,
+        "november": 25000,
+        "december": 30000
+      },
+      "districtTourismPercentage": {
+        "january": "1.5%",
+        "february": "1.5%",
+        "march": "1.5%",
+        "april": "1.5%",
+        "may": "1.5%",
+        "june": "1.5%",
+        "july": "1.5%",
+        "august": "1.5%",
+        "september": "1.5%",
+        "october": "1.5%",
+        "november": "1.5%",
+        "december": "1.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "08-48",
+    "neighborhoodName": "La Guineueta",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "population2024": 15500,
+    "populationDensityKm2": 14500,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 20000,
+        "february": 25000,
+        "march": 35000,
+        "april": 50000,
+        "may": 60000,
+        "june": 70000,
+        "july": 80000,
+        "august": 75000,
+        "september": 55000,
+        "october": 40000,
+        "november": 25000,
+        "december": 30000
+      },
+      "districtTourismPercentage": {
+        "january": "7.5%",
+        "february": "7.5%",
+        "march": "7.5%",
+        "april": "7.5%",
+        "may": "7.5%",
+        "june": "7.5%",
+        "july": "7.5%",
+        "august": "7.5%",
+        "september": "7.5%",
+        "october": "7.5%",
+        "november": "7.5%",
+        "december": "7.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "08-49",
+    "neighborhoodName": "Canyelles",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "population2024": 16000,
+    "populationDensityKm2": 9500,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 20000,
+        "february": 25000,
+        "march": 35000,
+        "april": 50000,
+        "may": 60000,
+        "june": 70000,
+        "july": 80000,
+        "august": 75000,
+        "september": 55000,
+        "october": 40000,
+        "november": 25000,
+        "december": 30000
+      },
+      "districtTourismPercentage": {
+        "january": "8.0%",
+        "february": "8.0%",
+        "march": "8.0%",
+        "april": "8.0%",
+        "may": "8.0%",
+        "june": "8.0%",
+        "july": "8.0%",
+        "august": "8.0%",
+        "september": "8.0%",
+        "october": "8.0%",
+        "november": "8.0%",
+        "december": "8.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "08-50",
+    "neighborhoodName": "Les Roquetes",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "population2024": 16500,
+    "populationDensityKm2": 19000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 20000,
+        "february": 25000,
+        "march": 35000,
+        "april": 50000,
+        "may": 60000,
+        "june": 70000,
+        "july": 80000,
+        "august": 75000,
+        "september": 55000,
+        "october": 40000,
+        "november": 25000,
+        "december": 30000
+      },
+      "districtTourismPercentage": {
+        "january": "8.5%",
+        "february": "8.5%",
+        "march": "8.5%",
+        "april": "8.5%",
+        "may": "8.5%",
+        "june": "8.5%",
+        "july": "8.5%",
+        "august": "8.5%",
+        "september": "8.5%",
+        "october": "8.5%",
+        "november": "8.5%",
+        "december": "8.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "08-51",
+    "neighborhoodName": "Verdum",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "population2024": 12500,
+    "populationDensityKm2": 21000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 20000,
+        "february": 25000,
+        "march": 35000,
+        "april": 50000,
+        "may": 60000,
+        "june": 70000,
+        "july": 80000,
+        "august": 75000,
+        "september": 55000,
+        "october": 40000,
+        "november": 25000,
+        "december": 30000
+      },
+      "districtTourismPercentage": {
+        "january": "6.0%",
+        "february": "6.0%",
+        "march": "6.0%",
+        "april": "6.0%",
+        "may": "6.0%",
+        "june": "6.0%",
+        "july": "6.0%",
+        "august": "6.0%",
+        "september": "6.0%",
+        "october": "6.0%",
+        "november": "6.0%",
+        "december": "6.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "08-52",
+    "neighborhoodName": "La Prosperitat",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "population2024": 15000,
+    "populationDensityKm2": 20000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 20000,
+        "february": 25000,
+        "march": 35000,
+        "april": 50000,
+        "may": 60000,
+        "june": 70000,
+        "july": 80000,
+        "august": 75000,
+        "september": 55000,
+        "october": 40000,
+        "november": 25000,
+        "december": 30000
+      },
+      "districtTourismPercentage": {
+        "january": "7.0%",
+        "february": "7.0%",
+        "march": "7.0%",
+        "april": "7.0%",
+        "may": "7.0%",
+        "june": "7.0%",
+        "july": "7.0%",
+        "august": "7.0%",
+        "september": "7.0%",
+        "october": "7.0%",
+        "november": "7.0%",
+        "december": "7.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "08-53",
+    "neighborhoodName": "La Trinitat Nova",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "population2024": 7500,
+    "populationDensityKm2": 15000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 20000,
+        "february": 25000,
+        "march": 35000,
+        "april": 50000,
+        "may": 60000,
+        "june": 70000,
+        "july": 80000,
+        "august": 75000,
+        "september": 55000,
+        "october": 40000,
+        "november": 25000,
+        "december": 30000
+      },
+      "districtTourismPercentage": {
+        "january": "3.5%",
+        "february": "3.5%",
+        "march": "3.5%",
+        "april": "3.5%",
+        "may": "3.5%",
+        "june": "3.5%",
+        "july": "3.5%",
+        "august": "3.5%",
+        "september": "3.5%",
+        "october": "3.5%",
+        "november": "3.5%",
+        "december": "3.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "08-54",
+    "neighborhoodName": "Torre Baró",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "population2024": 2500,
+    "populationDensityKm2": 1000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 20000,
+        "february": 25000,
+        "march": 35000,
+        "april": 50000,
+        "may": 60000,
+        "june": 70000,
+        "july": 80000,
+        "august": 75000,
+        "september": 55000,
+        "october": 40000,
+        "november": 25000,
+        "december": 30000
+      },
+      "districtTourismPercentage": {
+        "january": "1.0%",
+        "february": "1.0%",
+        "march": "1.0%",
+        "april": "1.0%",
+        "may": "1.0%",
+        "june": "1.0%",
+        "july": "1.0%",
+        "august": "1.0%",
+        "september": "1.0%",
+        "october": "1.0%",
+        "november": "1.0%",
+        "december": "1.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "08-55",
+    "neighborhoodName": "Ciutat Meridiana",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "population2024": 11000,
+    "populationDensityKm2": 10000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 20000,
+        "february": 25000,
+        "march": 35000,
+        "april": 50000,
+        "may": 60000,
+        "june": 70000,
+        "july": 80000,
+        "august": 75000,
+        "september": 55000,
+        "october": 40000,
+        "november": 25000,
+        "december": 30000
+      },
+      "districtTourismPercentage": {
+        "january": "5.0%",
+        "february": "5.0%",
+        "march": "5.0%",
+        "april": "5.0%",
+        "may": "5.0%",
+        "june": "5.0%",
+        "july": "5.0%",
+        "august": "5.0%",
+        "september": "5.0%",
+        "october": "5.0%",
+        "november": "5.0%",
+        "december": "5.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "08-56",
+    "neighborhoodName": "Vallbona",
+    "districtCode": "08",
+    "districtName": "Nou Barris",
+    "population2024": 1500,
+    "populationDensityKm2": 1500,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 20000,
+        "february": 25000,
+        "march": 35000,
+        "april": 50000,
+        "may": 60000,
+        "june": 70000,
+        "july": 80000,
+        "august": 75000,
+        "september": 55000,
+        "october": 40000,
+        "november": 25000,
+        "december": 30000
+      },
+      "districtTourismPercentage": {
+        "january": "0.5%",
+        "february": "0.5%",
+        "march": "0.5%",
+        "april": "0.5%",
+        "may": "0.5%",
+        "june": "0.5%",
+        "july": "0.5%",
+        "august": "0.5%",
+        "september": "0.5%",
+        "october": "0.5%",
+        "november": "0.5%",
+        "december": "0.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "09-57",
+    "neighborhoodName": "La Trinitat Vella",
+    "districtCode": "09",
+    "districtName": "Sant Andreu",
+    "population2024": 11000,
+    "populationDensityKm2": 9500,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 30000,
+        "february": 35000,
+        "march": 45000,
+        "april": 65000,
+        "may": 80000,
+        "june": 95000,
+        "july": 110000,
+        "august": 100000,
+        "september": 75000,
+        "october": 60000,
+        "november": 40000,
+        "december": 50000
+      },
+      "districtTourismPercentage": {
+        "january": "10.0%",
+        "february": "9.5%",
+        "march": "9.0%",
+        "april": "8.5%",
+        "may": "8.0%",
+        "june": "7.5%",
+        "july": "7.0%",
+        "august": "7.5%",
+        "september": "8.0%",
+        "october": "8.5%",
+        "november": "9.0%",
+        "december": "9.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "09-58",
+    "neighborhoodName": "Baró de Viver",
+    "districtCode": "09",
+    "districtName": "Sant Andreu",
+    "population2024": 2500,
+    "populationDensityKm2": 3500,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 30000,
+        "february": 35000,
+        "march": 45000,
+        "april": 65000,
+        "may": 80000,
+        "june": 95000,
+        "july": 110000,
+        "august": 100000,
+        "september": 75000,
+        "october": 60000,
+        "november": 40000,
+        "december": 50000
+      },
+      "districtTourismPercentage": {
+        "january": "2.0%",
+        "february": "2.0%",
+        "march": "2.0%",
+        "april": "2.0%",
+        "may": "2.0%",
+        "june": "2.0%",
+        "july": "2.0%",
+        "august": "2.0%",
+        "september": "2.0%",
+        "october": "2.0%",
+        "november": "2.0%",
+        "december": "2.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "09-59",
+    "neighborhoodName": "El Bon Pastor",
+    "districtCode": "09",
+    "districtName": "Sant Andreu",
+    "population2024": 14000,
+    "populationDensityKm2": 10000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 30000,
+        "february": 35000,
+        "march": 45000,
+        "april": 65000,
+        "may": 80000,
+        "june": 95000,
+        "july": 110000,
+        "august": 100000,
+        "september": 75000,
+        "october": 60000,
+        "november": 40000,
+        "december": 50000
+      },
+      "districtTourismPercentage": {
+        "january": "12.0%",
+        "february": "11.5%",
+        "march": "11.0%",
+        "april": "10.5%",
+        "may": "10.0%",
+        "june": "9.5%",
+        "july": "9.0%",
+        "august": "9.0%",
+        "september": "9.5%",
+        "october": "10.0%",
+        "november": "11.0%",
+        "december": "11.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "09-60",
+    "neighborhoodName": "Sant Andreu de Palomar",
+    "districtCode": "09",
+    "districtName": "Sant Andreu",
+    "population2024": 57000,
+    "populationDensityKm2": 19000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 30000,
+        "february": 35000,
+        "march": 45000,
+        "april": 65000,
+        "may": 80000,
+        "june": 95000,
+        "july": 110000,
+        "august": 100000,
+        "september": 75000,
+        "october": 60000,
+        "november": 40000,
+        "december": 50000
+      },
+      "districtTourismPercentage": {
+        "january": "40.0%",
+        "february": "40.5%",
+        "march": "41.0%",
+        "april": "41.5%",
+        "may": "42.0%",
+        "june": "42.5%",
+        "july": "43.0%",
+        "august": "42.5%",
+        "september": "42.0%",
+        "october": "41.5%",
+        "november": "41.0%",
+        "december": "40.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "09-61",
+    "neighborhoodName": "La Sagrera",
+    "districtCode": "09",
+    "districtName": "Sant Andreu",
+    "population2024": 30000,
+    "populationDensityKm2": 13000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 30000,
+        "february": 35000,
+        "march": 45000,
+        "april": 65000,
+        "may": 80000,
+        "june": 95000,
+        "july": 110000,
+        "august": 100000,
+        "september": 75000,
+        "october": 60000,
+        "november": 40000,
+        "december": 50000
+      },
+      "districtTourismPercentage": {
+        "january": "20.0%",
+        "february": "19.5%",
+        "march": "19.0%",
+        "april": "18.5%",
+        "may": "18.0%",
+        "june": "17.5%",
+        "july": "17.0%",
+        "august": "17.5%",
+        "september": "18.0%",
+        "october": "18.5%",
+        "november": "19.0%",
+        "december": "19.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "09-62",
+    "neighborhoodName": "El Congrés i els Indians",
+    "districtCode": "09",
+    "districtName": "Sant Andreu",
+    "population2024": 14000,
+    "populationDensityKm2": 21000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 30000,
+        "february": 35000,
+        "march": 45000,
+        "april": 65000,
+        "may": 80000,
+        "june": 95000,
+        "july": 110000,
+        "august": 100000,
+        "september": 75000,
+        "october": 60000,
+        "november": 40000,
+        "december": 50000
+      },
+      "districtTourismPercentage": {
+        "january": "9.0%",
+        "february": "9.0%",
+        "march": "9.0%",
+        "april": "9.0%",
+        "may": "9.0%",
+        "june": "9.0%",
+        "july": "9.0%",
+        "august": "9.0%",
+        "september": "9.0%",
+        "october": "9.0%",
+        "november": "9.0%",
+        "december": "9.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "09-63",
+    "neighborhoodName": "Navas",
+    "districtCode": "09",
+    "districtName": "Sant Andreu",
+    "population2024": 17000,
+    "populationDensityKm2": 22000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 30000,
+        "february": 35000,
+        "march": 45000,
+        "april": 65000,
+        "may": 80000,
+        "june": 95000,
+        "july": 110000,
+        "august": 100000,
+        "september": 75000,
+        "october": 60000,
+        "november": 40000,
+        "december": 50000
+      },
+      "districtTourismPercentage": {
+        "january": "7.0%",
+        "february": "7.5%",
+        "march": "8.0%",
+        "april": "8.5%",
+        "may": "9.0%",
+        "june": "9.5%",
+        "july": "10.0%",
+        "august": "10.5%",
+        "september": "10.0%",
+        "october": "9.5%",
+        "november": "8.5%",
+        "december": "8.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "10-64",
+    "neighborhoodName": "El Camp de l'Arpa del Clot",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "population2024": 35000,
+    "populationDensityKm2": 24000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 120000,
+        "february": 135000,
+        "march": 170000,
+        "april": 210000,
+        "may": 250000,
+        "june": 280000,
+        "july": 320000,
+        "august": 350000,
+        "september": 270000,
+        "october": 220000,
+        "november": 150000,
+        "december": 180000
+      },
+      "districtTourismPercentage": {
+        "january": "12.0%",
+        "february": "11.5%",
+        "march": "11.0%",
+        "april": "10.5%",
+        "may": "10.0%",
+        "june": "9.5%",
+        "july": "9.0%",
+        "august": "8.5%",
+        "september": "9.0%",
+        "october": "10.0%",
+        "november": "11.0%",
+        "december": "11.5%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "10-65",
+    "neighborhoodName": "El Clot",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "population2024": 30000,
+    "populationDensityKm2": 21000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 120000,
+        "february": 135000,
+        "march": 170000,
+        "april": 210000,
+        "may": 250000,
+        "june": 280000,
+        "july": 320000,
+        "august": 350000,
+        "september": 270000,
+        "october": 220000,
+        "november": 150000,
+        "december": 180000
+      },
+      "districtTourismPercentage": {
+        "january": "10.0%",
+        "february": "10.0%",
+        "march": "10.0%",
+        "april": "10.0%",
+        "may": "10.0%",
+        "june": "10.0%",
+        "july": "10.0%",
+        "august": "10.0%",
+        "september": "10.0%",
+        "october": "10.0%",
+        "november": "10.0%",
+        "december": "10.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "10-66",
+    "neighborhoodName": "El Parc i la Llacuna del Poblenou",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "population2024": 15000,
+    "populationDensityKm2": 8000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 120000,
+        "february": 135000,
+        "march": 170000,
+        "april": 210000,
+        "may": 250000,
+        "june": 280000,
+        "july": 320000,
+        "august": 350000,
+        "september": 270000,
+        "october": 220000,
+        "november": 150000,
+        "december": 180000
+      },
+      "districtTourismPercentage": {
+        "january": "5.0%",
+        "february": "5.0%",
+        "march": "5.0%",
+        "april": "5.0%",
+        "may": "5.0%",
+        "june": "5.0%",
+        "july": "5.0%",
+        "august": "5.0%",
+        "september": "5.0%",
+        "october": "5.0%",
+        "november": "5.0%",
+        "december": "5.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "10-67",
+    "neighborhoodName": "La Vila Olímpica del Poblenou",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "population2024": 10000,
+    "populationDensityKm2": 11000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 120000,
+        "february": 135000,
+        "march": 170000,
+        "april": 210000,
+        "may": 250000,
+        "june": 280000,
+        "july": 320000,
+        "august": 350000,
+        "september": 270000,
+        "october": 220000,
+        "november": 150000,
+        "december": 180000
+      },
+      "districtTourismPercentage": {
+        "january": "8.0%",
+        "february": "8.0%",
+        "march": "8.0%",
+        "april": "8.0%",
+        "may": "8.0%",
+        "june": "8.0%",
+        "july": "8.0%",
+        "august": "8.0%",
+        "september": "8.0%",
+        "october": "8.0%",
+        "november": "8.0%",
+        "december": "8.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "10-68",
+    "neighborhoodName": "El Poblenou",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "population2024": 35000,
+    "populationDensityKm2": 11000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 120000,
+        "february": 135000,
+        "march": 170000,
+        "april": 210000,
+        "may": 250000,
+        "june": 280000,
+        "july": 320000,
+        "august": 350000,
+        "september": 270000,
+        "october": 220000,
+        "november": 150000,
+        "december": 180000
+      },
+      "districtTourismPercentage": {
+        "january": "15.0%",
+        "february": "15.0%",
+        "march": "15.0%",
+        "april": "15.0%",
+        "may": "15.0%",
+        "june": "15.0%",
+        "july": "15.0%",
+        "august": "15.0%",
+        "september": "15.0%",
+        "october": "15.0%",
+        "november": "15.0%",
+        "december": "15.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "10-69",
+    "neighborhoodName": "Diagonal Mar i el Front Marítim del Poblenou",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "population2024": 15000,
+    "populationDensityKm2": 5000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 120000,
+        "february": 135000,
+        "march": 170000,
+        "april": 210000,
+        "may": 250000,
+        "june": 280000,
+        "july": 320000,
+        "august": 350000,
+        "september": 270000,
+        "october": 220000,
+        "november": 150000,
+        "december": 180000
+      },
+      "districtTourismPercentage": {
+        "january": "10.0%",
+        "february": "10.0%",
+        "march": "10.0%",
+        "april": "10.0%",
+        "may": "10.0%",
+        "june": "10.0%",
+        "july": "10.0%",
+        "august": "10.0%",
+        "september": "10.0%",
+        "october": "10.0%",
+        "november": "10.0%",
+        "december": "10.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "10-70",
+    "neighborhoodName": "El Besòs i el Maresme",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "population2024": 25000,
+    "populationDensityKm2": 14000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 120000,
+        "february": 135000,
+        "march": 170000,
+        "april": 210000,
+        "may": 250000,
+        "june": 280000,
+        "july": 320000,
+        "august": 350000,
+        "september": 270000,
+        "october": 220000,
+        "november": 150000,
+        "december": 180000
+      },
+      "districtTourismPercentage": {
+        "january": "8.0%",
+        "february": "8.0%",
+        "march": "8.0%",
+        "april": "8.0%",
+        "may": "8.0%",
+        "june": "8.0%",
+        "july": "8.0%",
+        "august": "8.0%",
+        "september": "8.0%",
+        "october": "8.0%",
+        "november": "8.0%",
+        "december": "8.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "10-71",
+    "neighborhoodName": "Provençals del Poblenou",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "population2024": 22000,
+    "populationDensityKm2": 11000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 120000,
+        "february": 135000,
+        "march": 170000,
+        "april": 210000,
+        "may": 250000,
+        "june": 280000,
+        "july": 320000,
+        "august": 350000,
+        "september": 270000,
+        "october": 220000,
+        "november": 150000,
+        "december": 180000
+      },
+      "districtTourismPercentage": {
+        "january": "6.0%",
+        "february": "6.0%",
+        "march": "6.0%",
+        "april": "6.0%",
+        "may": "6.0%",
+        "june": "6.0%",
+        "july": "6.0%",
+        "august": "6.0%",
+        "september": "6.0%",
+        "october": "6.0%",
+        "november": "6.0%",
+        "december": "6.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "10-72",
+    "neighborhoodName": "Sant Martí de Provençals",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "population2024": 26000,
+    "populationDensityKm2": 17000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 120000,
+        "february": 135000,
+        "march": 170000,
+        "april": 210000,
+        "may": 250000,
+        "june": 280000,
+        "july": 320000,
+        "august": 350000,
+        "september": 270000,
+        "october": 220000,
+        "november": 150000,
+        "december": 180000
+      },
+      "districtTourismPercentage": {
+        "january": "8.0%",
+        "february": "8.0%",
+        "march": "8.0%",
+        "april": "8.0%",
+        "may": "8.0%",
+        "june": "8.0%",
+        "july": "8.0%",
+        "august": "8.0%",
+        "september": "8.0%",
+        "october": "8.0%",
+        "november": "8.0%",
+        "december": "8.0%"
+      }
+    }
+  },
+  {
+    "neighborhoodCode": "10-73",
+    "neighborhoodName": "La Verneda i la Pau",
+    "districtCode": "10",
+    "districtName": "Sant Martí",
+    "population2024": 35000,
+    "populationDensityKm2": 15000,
+    "monthlyTourism": {
+      "absoluteTouristsByDistrict": {
+        "january": 120000,
+        "february": 135000,
+        "march": 170000,
+        "april": 210000,
+        "may": 250000,
+        "june": 280000,
+        "july": 320000,
+        "august": 350000,
+        "september": 270000,
+        "october": 220000,
+        "november": 150000,
+        "december": 180000
+      },
+      "districtTourismPercentage": {
+        "january": "18.0%",
+        "february": "18.5%",
+        "march": "19.0%",
+        "april": "19.5%",
+        "may": "20.0%",
+        "june": "20.5%",
+        "july": "21.0%",
+        "august": "21.5%",
+        "september": "20.0%",
+        "october": "18.0%",
+        "november": "17.0%",
+        "december": "16.5%"
+      }
+    }
+  }
+]
