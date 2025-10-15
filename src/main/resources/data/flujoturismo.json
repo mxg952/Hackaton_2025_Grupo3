@@ -1,0 +1,880 @@
+[
+  {
+    "linia": "L5",
+    "nom_linia": "Línia Blava",
+    "parades": [
+      {
+        "codi_parada": "L5-01",
+        "nom_parada": "Cornellà Centre",
+        "utilitzacio_mensual": {
+          "gener": 125000,
+          "febrer": 135000,
+          "març": 155000,
+          "abril": 175000,
+          "maig": 195000,
+          "juny": 210000,
+          "juliol": 225000,
+          "agost": 230000,
+          "setembre": 200000,
+          "octubre": 180000,
+          "novembre": 145000,
+          "desembre": 165000
+        },
+        "percentatge_utilitzacio": {
+          "gener": "8.5%",
+          "febrer": "9.0%",
+          "març": "10.5%",
+          "abril": "11.0%",
+          "maig": "12.0%",
+          "juny": "12.5%",
+          "juliol": "13.0%",
+          "agost": "13.5%",
+          "setembre": "12.0%",
+          "octubre": "11.0%",
+          "novembre": "9.5%",
+          "desembre": "10.0%"
+        }
+      },
+      {
+        "codi_parada": "L5-02",
+        "nom_parada": "Sant Ildefons",
+        "utilitzacio_mensual": {
+          "gener": 85000,
+          "febrer": 92000,
+          "març": 105000,
+          "abril": 118000,
+          "maig": 130000,
+          "juny": 142000,
+          "juliol": 155000,
+          "agost": 158000,
+          "setembre": 135000,
+          "octubre": 120000,
+          "novembre": 95000,
+          "desembre": 110000
+        },
+        "percentatge_utilitzacio": {
+          "gener": "5.8%",
+          "febrer": "6.1%",
+          "març": "7.1%",
+          "abril": "7.4%",
+          "maig": "8.0%",
+          "juny": "8.4%",
+          "juliol": "9.0%",
+          "agost": "9.3%",
+          "setembre": "8.1%",
+          "octubre": "7.3%",
+          "novembre": "6.2%",
+          "desembre": "6.7%"
+        }
+      },
+      {
+        "codi_parada": "L5-03",
+        "nom_parada": "Can Boixeres",
+        "utilitzacio_mensual": {
+          "gener": 78000,
+          "febrer": 84000,
+          "març": 96000,
+          "abril": 108000,
+          "maig": 118000,
+          "juny": 128000,
+          "juliol": 138000,
+          "agost": 142000,
+          "setembre": 122000,
+          "octubre": 108000,
+          "novembre": 86000,
+          "desembre": 98000
+        },
+        "percentatge_utilitzacio": {
+          "gener": "5.3%",
+          "febrer": "5.6%",
+          "març": "6.5%",
+          "abril": "6.8%",
+          "maig": "7.3%",
+          "juny": "7.6%",
+          "juliol": "8.0%",
+          "agost": "8.4%",
+          "setembre": "7.3%",
+          "octubre": "6.6%",
+          "novembre": "5.6%",
+          "desembre": "5.9%"
+        }
+      },
+      {
+        "codi_parada": "L5-04",
+        "nom_parada": "Sant Josep",
+        "utilitzacio_mensual": {
+          "gener": 72000,
+          "febrer": 78000,
+          "març": 89000,
+          "abril": 99000,
+          "maig": 108000,
+          "juny": 118000,
+          "juliol": 128000,
+          "agost": 132000,
+          "setembre": 112000,
+          "octubre": 98000,
+          "novembre": 78000,
+          "desembre": 90000
+        },
+        "percentatge_utilitzacio": {
+          "gener": "4.9%",
+          "febrer": "5.2%",
+          "març": "6.0%",
+          "abril": "6.2%",
+          "maig": "6.7%",
+          "juny": "7.0%",
+          "juliol": "7.4%",
+          "agost": "7.8%",
+          "setembre": "6.7%",
+          "octubre": "6.0%",
+          "novembre": "5.1%",
+          "desembre": "5.5%"
+        }
+      },
+      {
+        "codi_parada": "L5-05",
+        "nom_parada": "Gavarra",
+        "utilitzacio_mensual": {
+          "gener": 68000,
+          "febrer": 73000,
+          "març": 83000,
+          "abril": 92000,
+          "maig": 101000,
+          "juny": 110000,
+          "juliol": 119000,
+          "agost": 122000,
+          "setembre": 105000,
+          "octubre": 92000,
+          "novembre": 73000,
+          "desembre": 85000
+        },
+        "percentatge_utilitzacio": {
+          "gener": "4.6%",
+          "febrer": "4.9%",
+          "març": "5.6%",
+          "abril": "5.8%",
+          "maig": "6.2%",
+          "juny": "6.5%",
+          "juliol": "6.9%",
+          "agost": "7.2%",
+          "setembre": "6.3%",
+          "octubre": "5.6%",
+          "novembre": "4.8%",
+          "desembre": "5.2%"
+        }
+      },
+      {
+        "codi_parada": "L5-06",
+        "nom_parada": "Pubilla Cases",
+        "utilitzacio_mensual": {
+          "gener": 75000,
+          "febrer": 81000,
+          "març": 92000,
+          "abril": 102000,
+          "maig": 112000,
+          "juny": 122000,
+          "juliol": 132000,
+          "agost": 135000,
+          "setembre": 115000,
+          "octubre": 102000,
+          "novembre": 81000,
+          "desembre": 95000
+        },
+        "percentatge_utilitzacio": {
+          "gener": "5.1%",
+          "febrer": "5.4%",
+          "març": "6.2%",
+          "abril": "6.4%",
+          "maig": "6.9%",
+          "juny": "7.2%",
+          "juliol": "7.6%",
+          "agost": "7.9%",
+          "setembre": "6.9%",
+          "octubre": "6.2%",
+          "novembre": "5.3%",
+          "desembre": "5.8%"
+        }
+      },
+      {
+        "codi_parada": "L5-07",
+        "nom_parada": "Collblanc",
+        "utilitzacio_mensual": {
+          "gener": 95000,
+          "febrer": 102000,
+          "març": 118000,
+          "abril": 132000,
+          "maig": 145000,
+          "juny": 158000,
+          "juliol": 172000,
+          "agost": 175000,
+          "setembre": 148000,
+          "octubre": 132000,
+          "novembre": 105000,
+          "desembre": 122000
+        },
+        "percentatge_utilitzacio": {
+          "gener": "6.5%",
+          "febrer": "6.8%",
+          "març": "8.0%",
+          "abril": "8.3%",
+          "maig": "8.9%",
+          "juny": "9.4%",
+          "juliol": "10.0%",
+          "agost": "10.3%",
+          "setembre": "8.9%",
+          "octubre": "8.0%",
+          "novembre": "6.9%",
+          "desembre": "7.4%"
+        }
+      },
+      {
+        "codi_parada": "L5-08",
+        "nom_parada": "Badal",
+        "utilitzacio_mensual": {
+          "gener": 82000,
+          "febrer": 88000,
+          "març": 101000,
+          "abril": 112000,
+          "maig": 122000,
+          "juny": 132000,
+          "juliol": 142000,
+          "agost": 145000,
+          "setembre": 125000,
+          "octubre": 112000,
+          "novembre": 88000,
+          "desembre": 102000
+        },
+        "percentatge_utilitzacio": {
+          "gener": "5.6%",
+          "febrer": "5.9%",
+          "març": "6.8%",
+          "abril": "7.0%",
+          "maig": "7.5%",
+          "juny": "7.8%",
+          "juliol": "8.2%",
+          "agost": "8.5%",
+          "setembre": "7.5%",
+          "octubre": "6.8%",
+          "novembre": "5.8%",
+          "desembre": "6.2%"
+        }
+      },
+      {
+        "codi_parada": "L5-09",
+        "nom_parada": "Plaça de Sants",
+        "utilitzacio_mensual": {
+          "gener": 115000,
+          "febrer": 125000,
+          "març": 145000,
+          "abril": 162000,
+          "maig": 178000,
+          "juny": 192000,
+          "juliol": 208000,
+          "agost": 212000,
+          "setembre": 182000,
+          "octubre": 162000,
+          "novembre": 128000,
+          "desembre": 148000
+        },
+        "percentatge_utilitzacio": {
+          "gener": "7.8%",
+          "febrer": "8.3%",
+          "març": "9.8%",
+          "abril": "10.2%",
+          "maig": "11.0%",
+          "juny": "11.4%",
+          "juliol": "12.1%",
+          "agost": "12.5%",
+          "setembre": "10.9%",
+          "octubre": "9.8%",
+          "novembre": "8.4%",
+          "desembre": "9.0%"
+        }
+      },
+      {
+        "codi_parada": "L5-10",
+        "nom_parada": "Entença",
+        "utilitzacio_mensual": {
+          "gener": 78000,
+          "febrer": 84000,
+          "març": 96000,
+          "abril": 108000,
+          "maig": 118000,
+          "juny": 128000,
+          "juliol": 138000,
+          "agost": 142000,
+          "setembre": 122000,
+          "octubre": 108000,
+          "novembre": 86000,
+          "desembre": 98000
+        },
+        "percentatge_utilitzacio": {
+          "gener": "5.3%",
+          "febrer": "5.6%",
+          "març": "6.5%",
+          "abril": "6.8%",
+          "maig": "7.3%",
+          "juny": "7.6%",
+          "juliol": "8.0%",
+          "agost": "8.4%",
+          "setembre": "7.3%",
+          "octubre": "6.6%",
+          "novembre": "5.6%",
+          "desembre": "5.9%"
+        }
+      },
+      {
+        "codi_parada": "L5-11",
+        "nom_parada": "Hospital Clínic",
+        "utilitzacio_mensual": {
+          "gener": 92000,
+          "febrer": 99000,
+          "març": 112000,
+          "abril": 125000,
+          "maig": 138000,
+          "juny": 148000,
+          "juliol": 158000,
+          "agost": 162000,
+          "setembre": 138000,
+          "octubre": 125000,
+          "novembre": 99000,
+          "desembre": 115000
+        },
+        "percentatge_utilitzacio": {
+          "gener": "6.3%",
+          "febrer": "6.6%",
+          "març": "7.6%",
+          "abril": "7.9%",
+          "maig": "8.5%",
+          "juny": "8.8%",
+          "juliol": "9.2%",
+          "agost": "9.5%",
+          "setembre": "8.3%",
+          "octubre": "7.6%",
+          "novembre": "6.5%",
+          "desembre": "7.0%"
+        }
+      },
+      {
+        "codi_parada": "L5-12",
+        "nom_parada": "Diagonal",
+        "utilitzacio_mensual": {
+          "gener": 135000,
+          "febrer": 145000,
+          "març": 168000,
+          "abril": 188000,
+          "maig": 205000,
+          "juny": 222000,
+          "juliol": 238000,
+          "agost": 242000,
+          "setembre": 208000,
+          "octubre": 188000,
+          "novembre": 148000,
+          "desembre": 172000
+        },
+        "percentatge_utilitzacio": {
+          "gener": "9.2%",
+          "febrer": "9.7%",
+          "març": "11.4%",
+          "abril": "11.8%",
+          "maig": "12.6%",
+          "juny": "13.2%",
+          "juliol": "13.8%",
+          "agost": "14.2%",
+          "setembre": "12.5%",
+          "octubre": "11.4%",
+          "novembre": "9.7%",
+          "desembre": "10.4%"
+        }
+      },
+      {
+        "codi_parada": "L5-13",
+        "nom_parada": "Verdaguer",
+        "utilitzacio_mensual": {
+          "gener": 105000,
+          "febrer": 112000,
+          "març": 128000,
+          "abril": 142000,
+          "maig": 155000,
+          "juny": 168000,
+          "juliol": 182000,
+          "agost": 185000,
+          "setembre": 158000,
+          "octubre": 142000,
+          "novembre": 112000,
+          "desembre": 132000
+        },
+        "percentatge_utilitzacio": {
+          "gener": "7.2%",
+          "febrer": "7.5%",
+          "març": "8.7%",
+          "abril": "8.9%",
+          "maig": "9.6%",
+          "juny": "10.0%",
+          "juliol": "10.6%",
+          "agost": "10.9%",
+          "setembre": "9.5%",
+          "octubre": "8.6%",
+          "novembre": "7.4%",
+          "desembre": "8.0%"
+        }
+      },
+      {
+        "codi_parada": "L5-14",
+        "nom_parada": "Sagrada Família",
+        "utilitzacio_mensual": {
+          "gener": 155000,
+          "febrer": 168000,
+          "març": 195000,
+          "abril": 218000,
+          "maig": 238000,
+          "juny": 255000,
+          "juliol": 272000,
+          "agost": 278000,
+          "setembre": 238000,
+          "octubre": 218000,
+          "novembre": 172000,
+          "desembre": 198000
+        },
+        "percentatge_utilitzacio": {
+          "gener": "10.6%",
+          "febrer": "11.2%",
+          "març": "13.2%",
+          "abril": "13.7%",
+          "maig": "14.7%",
+          "juny": "15.2%",
+          "juliol": "15.8%",
+          "agost": "16.4%",
+          "setembre": "14.3%",
+          "octubre": "13.2%",
+          "novembre": "11.3%",
+          "desembre": "12.0%"
+        }
+      },
+      {
+        "codi_parada": "L5-15",
+        "nom_parada": "Sant Pau | Dos de Maig",
+        "utilitzacio_mensual": {
+          "gener": 88000,
+          "febrer": 95000,
+          "març": 108000,
+          "abril": 118000,
+          "maig": 128000,
+          "juny": 138000,
+          "juliol": 148000,
+          "agost": 152000,
+          "setembre": 128000,
+          "octubre": 118000,
+          "novembre": 95000,
+          "desembre": 108000
+        },
+        "percentatge_utilitzacio": {
+          "gener": "6.0%",
+          "febrer": "6.3%",
+          "març": "7.3%",
+          "abril": "7.4%",
+          "maig": "7.9%",
+          "juny": "8.2%",
+          "juliol": "8.6%",
+          "agost": "8.9%",
+          "setembre": "7.7%",
+          "octubre": "7.2%",
+          "novembre": "6.2%",
+          "desembre": "6.5%"
+        }
+      },
+      {
+        "codi_parada": "L5-16",
+        "nom_parada": "Camp de l'Arpa",
+        "utilitzacio_mensual": {
+          "gener": 72000,
+          "febrer": 78000,
+          "març": 89000,
+          "abril": 99000,
+          "maig": 108000,
+          "juny": 118000,
+          "juliol": 128000,
+          "agost": 132000,
+          "setembre": 112000,
+          "octubre": 98000,
+          "novembre": 78000,
+          "desembre": 90000
+        },
+        "percentatge_utilitzacio": {
+          "gener": "4.9%",
+          "febrer": "5.2%",
+          "març": "6.0%",
+          "abril": "6.2%",
+          "maig": "6.7%",
+          "juny": "7.0%",
+          "juliol": "7.4%",
+          "agost": "7.8%",
+          "setembre": "6.7%",
+          "octubre": "6.0%",
+          "novembre": "5.1%",
+          "desembre": "5.5%"
+        }
+      },
+      {
+        "codi_parada": "L5-17",
+        "nom_parada": "La Sagrera",
+        "utilitzacio_mensual": {
+          "gener": 102000,
+          "febrer": 108000,
+          "març": 122000,
+          "abril": 135000,
+          "maig": 148000,
+          "juny": 158000,
+          "juliol": 168000,
+          "agost": 172000,
+          "setembre": 148000,
+          "octubre": 135000,
+          "novembre": 108000,
+          "desembre": 125000
+        },
+        "percentatge_utilitzacio": {
+          "gener": "7.0%",
+          "febrer": "7.2%",
+          "març": "8.3%",
+          "abril": "8.5%",
+          "maig": "9.1%",
+          "juny": "9.4%",
+          "juliol": "9.8%",
+          "agost": "10.1%",
+          "setembre": "8.9%",
+          "octubre": "8.2%",
+          "novembre": "7.1%",
+          "desembre": "7.6%"
+        }
+      },
+      {
+        "codi_parada": "L5-18",
+        "nom_parada": "Congrés",
+        "utilitzacio_mensual": {
+          "gener": 68000,
+          "febrer": 73000,
+          "març": 83000,
+          "abril": 92000,
+          "maig": 101000,
+          "juny": 110000,
+          "juliol": 119000,
+          "agost": 122000,
+          "setembre": 105000,
+          "octubre": 92000,
+          "novembre": 73000,
+          "desembre": 85000
+        },
+        "percentatge_utilitzacio": {
+          "gener": "4.6%",
+          "febrer": "4.9%",
+          "març": "5.6%",
+          "abril": "5.8%",
+          "maig": "6.2%",
+          "juny": "6.5%",
+          "juliol": "6.9%",
+          "agost": "7.2%",
+          "setembre": "6.3%",
+          "octubre": "5.6%",
+          "novembre": "4.8%",
+          "desembre": "5.2%"
+        }
+      },
+      {
+        "codi_parada": "L5-19",
+        "nom_parada": "Maragall",
+        "utilitzacio_mensual": {
+          "gener": 85000,
+          "febrer": 92000,
+          "març": 105000,
+          "abril": 118000,
+          "maig": 128000,
+          "juny": 138000,
+          "juliol": 148000,
+          "agost": 152000,
+          "setembre": 128000,
+          "octubre": 118000,
+          "novembre": 92000,
+          "desembre": 108000
+        },
+        "percentatge_utilitzacio": {
+          "gener": "5.8%",
+          "febrer": "6.1%",
+          "març": "7.1%",
+          "abril": "7.4%",
+          "maig": "7.9%",
+          "juny": "8.2%",
+          "juliol": "8.6%",
+          "agost": "8.9%",
+          "setembre": "7.7%",
+          "octubre": "7.2%",
+          "novembre": "6.0%",
+          "desembre": "6.5%"
+        }
+      },
+      {
+        "codi_parada": "L5-20",
+        "nom_parada": "Virrei Amat",
+        "utilitzacio_mensual": {
+          "gener": 78000,
+          "febrer": 84000,
+          "març": 96000,
+          "abril": 108000,
+          "maig": 118000,
+          "juny": 128000,
+          "juliol": 138000,
+          "agost": 142000,
+          "setembre": 122000,
+          "octubre": 108000,
+          "novembre": 86000,
+          "desembre": 98000
+        },
+        "percentatge_utilitzacio": {
+          "gener": "5.3%",
+          "febrer": "5.6%",
+          "març": "6.5%",
+          "abril": "6.8%",
+          "maig": "7.3%",
+          "juny": "7.6%",
+          "juliol": "8.0%",
+          "agost": "8.4%",
+          "setembre": "7.3%",
+          "octubre": "6.6%",
+          "novembre": "5.6%",
+          "desembre": "5.9%"
+        }
+      },
+      {
+        "codi_parada": "L5-21",
+        "nom_parada": "Vilapicina",
+        "utilitzacio_mensual": {
+          "gener": 72000,
+          "febrer": 78000,
+          "març": 89000,
+          "abril": 99000,
+          "maig": 108000,
+          "juny": 118000,
+          "juliol": 128000,
+          "agost": 132000,
+          "setembre": 112000,
+          "octubre": 98000,
+          "novembre": 78000,
+          "desembre": 90000
+        },
+        "percentatge_utilitzacio": {
+          "gener": "4.9%",
+          "febrer": "5.2%",
+          "març": "6.0%",
+          "abril": "6.2%",
+          "maig": "6.7%",
+          "juny": "7.0%",
+          "juliol": "7.4%",
+          "agost": "7.8%",
+          "setembre": "6.7%",
+          "octubre": "6.0%",
+          "novembre": "5.1%",
+          "desembre": "5.5%"
+        }
+      },
+      {
+        "codi_parada": "L5-22",
+        "nom_parada": "Horta",
+        "utilitzacio_mensual": {
+          "gener": 68000,
+          "febrer": 73000,
+          "març": 83000,
+          "abril": 92000,
+          "maig": 101000,
+          "juny": 110000,
+          "juliol": 119000,
+          "agost": 122000,
+          "setembre": 105000,
+          "octubre": 92000,
+          "novembre": 73000,
+          "desembre": 85000
+        },
+        "percentatge_utilitzacio": {
+          "gener": "4.6%",
+          "febrer": "4.9%",
+          "març": "5.6%",
+          "abril": "5.8%",
+          "maig": "6.2%",
+          "juny": "6.5%",
+          "juliol": "6.9%",
+          "agost": "7.2%",
+          "setembre": "6.3%",
+          "octubre": "5.6%",
+          "novembre": "4.8%",
+          "desembre": "5.2%"
+        }
+      },
+      {
+        "codi_parada": "L5-23",
+        "nom_parada": "El Carmel",
+        "utilitzacio_mensual": {
+          "gener": 75000,
+          "febrer": 81000,
+          "març": 92000,
+          "abril": 102000,
+          "maig": 112000,
+          "juny": 122000,
+          "juliol": 132000,
+          "agost": 135000,
+          "setembre": 115000,
+          "octubre": 102000,
+          "novembre": 81000,
+          "desembre": 95000
+        },
+        "percentatge_utilitzacio": {
+          "gener": "5.1%",
+          "febrer": "5.4%",
+          "març": "6.2%",
+          "abril": "6.4%",
+          "maig": "6.9%",
+          "juny": "7.2%",
+          "juliol": "7.6%",
+          "agost": "7.9%",
+          "setembre": "6.9%",
+          "octubre": "6.2%",
+          "novembre": "5.3%",
+          "desembre": "5.8%"
+        }
+      },
+      {
+        "codi_parada": "L5-24",
+        "nom_parada": "El Coll | La Teixonera",
+        "utilitzacio_mensual": {
+          "gener": 65000,
+          "febrer": 70000,
+          "març": 80000,
+          "abril": 88000,
+          "maig": 95000,
+          "juny": 102000,
+          "juliol": 108000,
+          "agost": 112000,
+          "setembre": 95000,
+          "octubre": 88000,
+          "novembre": 70000,
+          "desembre": 82000
+        },
+        "percentatge_utilitzacio": {
+          "gener": "4.4%",
+          "febrer": "4.7%",
+          "març": "5.4%",
+          "abril": "5.5%",
+          "maig": "5.9%",
+          "juny": "6.1%",
+          "juliol": "6.3%",
+          "agost": "6.6%",
+          "setembre": "5.7%",
+          "octubre": "5.4%",
+          "novembre": "4.6%",
+          "desembre": "5.0%"
+        }
+      },
+      {
+        "codi_parada": "L5-25",
+        "nom_parada": "Vall d'Hebron",
+        "utilitzacio_mensual": {
+          "gener": 82000,
+          "febrer": 88000,
+          "març": 101000,
+          "abril": 112000,
+          "maig": 122000,
+          "juny": 132000,
+          "juliol": 142000,
+          "agost": 145000,
+          "setembre": 125000,
+          "octubre": 112000,
+          "novembre": 88000,
+          "desembre": 102000
+        },
+        "percentatge_utilitzacio": {
+          "gener": "5.6%",
+          "febrer": "5.9%",
+          "març": "6.8%",
+          "abril": "7.0%",
+          "maig": "7.5%",
+          "juny": "7.8%",
+          "juliol": "8.2%",
+          "agost": "8.5%",
+          "setembre": "7.5%",
+          "octubre": "6.8%",
+          "novembre": "5.8%",
+          "desembre": "6.2%"
+        }
+      }
+    ]
+  },
+  {
+    "linia": "L3",
+    "nom_linia": "Línia Verda",
+    "parades": [
+      {
+        "codi_parada": "L3-01",
+        "nom_parada": "Zona Universitària",
+        "utilitzacio_mensual": {
+          "gener": 98000,
+          "febrer": 105000,
+          "març": 118000,
+          "abril": 128000,
+          "maig": 138000,
+          "juny": 148000,
+          "juliol": 158000,
+          "agost": 162000,
+          "setembre": 142000,
+          "octubre": 128000,
+          "novembre": 105000,
+          "desembre": 118000
+        },
+        "percentatge_utilitzacio": {
+          "gener": "8.2%",
+          "febrer": "8.5%",
+          "març": "9.3%",
+          "abril": "9.6%",
+          "maig": "10.1%",
+          "juny": "10.5%",
+          "juliol": "10.9%",
+          "agost": "11.2%",
+          "setembre": "10.3%",
+          "octubre": "9.6%",
+          "novembre": "8.4%",
+          "desembre": "9.0%"
+        }
+      },
+      {
+        "codi_parada": "L3-02",
+        "nom_parada": "Palau Reial",
+        "utilitzacio_mensual": {
+          "gener": 72000,
+          "febrer": 78000,
+          "març": 88000,
+          "abril": 95000,
+          "maig": 102000,
+          "juny": 108000,
+          "juliol": 115000,
+          "agost": 118000,
+          "setembre": 102000,
+          "octubre": 95000,
+          "novembre": 78000,
+          "desembre": 88000
+        },
+        "percentatge_utilitzacio": {
+          "gener": "6.0%",
+          "febrer": "6.3%",
+          "març": "6.9%",
+          "abril": "7.1%",
+          "maig": "7.5%",
+          "juny": "7.7%",
+          "juliol": "7.9%",
+          "agost": "8.2%",
+          "setembre": "7.4%",
+          "octubre": "7.1%",
+          "novembre": "6.2%",
+          "desembre": "6.7%"
+        }
+      }
+    ]
+  }
+]
+
+     
