@@ -4,9 +4,12 @@ package com.hackato2025.demo.service;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.hackato2025.demo.model.Neighborhood;
+import lombok.Getter;
 import org.springframework.stereotype.Service;
 
 import jakarta.annotation.PostConstruct;
+
+import java.io.IOException;
 import java.io.InputStream;
 import java.util.*;
 
