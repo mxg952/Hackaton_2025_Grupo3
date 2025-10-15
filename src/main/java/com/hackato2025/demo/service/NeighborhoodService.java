@@ -16,31 +16,22 @@ import java.util.*;
 @Service
 public class NeighborhoodService {
 
-    private List<Neighborhood> neighborhoods = new ArrayList<>();
+    private List<Map<String, Object>> neighborhoodsFullData;
 
     @PostConstruct
     public void loadData() throws Exception {
         ObjectMapper mapper = new ObjectMapper();
+
         InputStream inputStream = getClass().getResourceAsStream("/data/neighborhoods.json");
-        neighborhoods = mapper.readValue(inputStream, new TypeReference<>() {});
-    }
-
-    public List<Neighborhood> getAllNeighborhoods() {
-        return neighborhoods;
-    }
-
-    public Map<String, Integer> getTotalVisitorsPerMonth() {
-        Map<String, Integer> totals = new LinkedHashMap<>();
-
-        for (Neighborhood n : neighborhoods) {
-            if (n.getMonthlyTourism() == null) continue;
-            Map<String, Integer> tourism = n.getMonthlyTourism().getAbsoluteTouristsByDistrict();
-            if (tourism == null) continue;
-
-            for (Map.Entry<String, Integer> entry : tourism.entrySet()) {
-                totals.merge(entry.getKey(), entry.getValue(), Integer::sum);
-            }
+        if (inputStream == null) {
+            throw new RuntimeException("File neighborhoods.json not found in resources/");
         }
-        return totals;
+
+        neighborhoodsFullData = mapper.readValue(inputStream, new TypeReference<>() {});
     }
+
+    public List<Map<String, Object>> getFullNeighborhoodsData() {
+        return neighborhoodsFullData;
+    }
+
 }

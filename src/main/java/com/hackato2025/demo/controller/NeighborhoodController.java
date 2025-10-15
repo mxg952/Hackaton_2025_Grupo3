@@ -1,6 +1,11 @@
 package com.hackato2025.demo.controller;
 
 
+import com.hackato2025.demo.model.Neighborhood;
+import com.hackato2025.demo.service.NeighborhoodService;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.*;
+
 import java.util.List;
 import java.util.Map;
 
@@ -21,13 +26,8 @@ public class NeighborhoodController {
         this.neighborhoodService = neighborhoodService;
     }
 
-    @GetMapping
-    public List<Neighborhood> getAll() {
-        return neighborhoodService.getAllNeighborhoods();
-    }
-
-    @GetMapping("/visitors/total")
-    public Map<String, Integer> getTotalVisitorsPerMonth() {
-        return neighborhoodService.getTotalVisitorsPerMonth();
+    @GetMapping("/full-data")
+    public ResponseEntity<List<Map<String, Object>>> getFullNeighborhoodsData() {
+        return ResponseEntity.ok(neighborhoodService.getFullNeighborhoodsData());
     }
 }
