@@ -138,7 +138,7 @@ setx PATH "%PATH%;%M2_HOME%\bin"
 1. **Clona el repositori**
 
    ```bash
-   git clone https://github.com/<usuari>/Hackaton_2025_Grupo3.git](https://github.com/mxg952/Hackaton_2025_Grupo3
+   git clone https://github.com/mxg952/Hackaton_2025_Grupo3
    cd Hackaton_2025_Grupo3
    ```
 
