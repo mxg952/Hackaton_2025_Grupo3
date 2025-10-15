@@ -1,4 +1,4 @@
-package com.hackato2025.demo;
+package com.hackato2025.demo.controller;
 
 import java.io.FileNotFoundException;
 import java.io.InputStream;
